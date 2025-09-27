@@ -4,8 +4,8 @@ This project automatically fetches V2Ray configurations from Telegram channels e
 
 
 
-## Configuration Files
-- config/all_configs.txt
+## Configuration File
+- [config/all_configs.txt](https://skillfulelectro.github.io/V2RayConfig_fork/Config/all_configs.txt)
 
 ## Telegram Channels
 
