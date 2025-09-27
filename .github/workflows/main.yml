@@ -33,16 +33,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add Config/vless.txt || true
-          git add Config/vmess.txt || true
-          git add Config/shadowsocks.txt || true
-          git add Config/trojan.txt || true
-          git add Config/HamrahAval.txt || true
-          git add Config/Irancell.txt || true
-          git add Config/Makhaberat.txt || true
-          git add Config/Samantel.txt || true
-          git add Config/Shatel.txt || true
-          git add Config/proxies.txt || true
+          git add Config/all_configs.txt || true
           git add Logs/channel_stats.json || true
           git add Logs/invalid_channels.txt || true
           git add Logs/collector.log || true
