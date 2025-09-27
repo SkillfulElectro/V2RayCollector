@@ -7,7 +7,7 @@ on:
   pull_request:
   push:
   schedule:
-    - cron: "*/45 * * * *"
+    - cron: "*/50 * * * *"
   workflow_dispatch:
 
 
@@ -26,7 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install telethon requests
+          pip install telethon requests v2ray2proxy
 
       - name: Run script
         env:
@@ -41,6 +41,7 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add Config/all_configs.txt || true
+          git add Config/tested_configs.txt || true
           git add Logs/channel_stats.json || true
           git add Logs/invalid_channels.txt || true
           git add Logs/collector.log || true
