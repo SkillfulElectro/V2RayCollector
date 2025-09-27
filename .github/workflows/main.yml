@@ -26,7 +26,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install telethon requests v2ray2proxy
+          pip install telethon requests singbox2proxy
 
       - name: Run script
         env:
