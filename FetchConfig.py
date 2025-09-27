@@ -91,15 +91,27 @@ def test_single_config(args):
 
 def test_configs(configs):
     results = []
-    base_port = 10000
-    config_ports = [(config, base_port + i * 2) for i, config in enumerate(configs)]
-
-    with ThreadPoolExecutor(max_workers=min(len(configs), 10)) as executor:
-        futures = executor.map(test_single_config, config_ports)
-        for result in futures:
-            if result is not None: 
-                results.append(result)
-    
+    for config in configs:
+        proxy = V2RayProxy(config)
+        try:
+            latencies = []
+            for _ in range(NUM_CONFIG_TESTS):
+                start_time = time.time()
+                proxies = {
+                    "http": proxy.http_proxy_url,
+                    "https": proxy.http_proxy_url
+                }
+                response = requests.get(TEST_URL, proxies=proxies, timeout=10)
+                if response.status_code != 200:
+                    raise ValueError(f"Non-200 status: {response.status_code}")
+                latency = (time.time() - start_time) * 1000  # ms
+                latencies.append(latency)
+            avg_latency = sum(latencies) / len(latencies)
+            results.append((config, avg_latency))
+        except Exception:
+            pass
+        finally:
+            proxy.stop()
     sorted_results = sorted(results, key=lambda x: x[1])
     sorted_configs = [config for config, _ in sorted_results]
     return sorted_configs
