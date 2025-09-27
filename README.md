@@ -2,7 +2,7 @@
 
 This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions.
 
-**[نسخه فارسی (Persian)](README.fa.md)**
+
 
 ## Configuration Files
 - config/all_configs.txt
