@@ -1,11 +1,12 @@
-# V2RayConfig_fork
+# V2RayCollector
 
-This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions.
+This project automatically fetches V2Ray configurations from Telegram channels every 55 minutes from 8 to 22 UTC time.
 
 
 
 ## Configuration File
-- [config/all_configs.txt](https://skillfulelectro.github.io/V2RayConfig_fork/Config/all_configs.txt)
+- [config/all_configs.txt](https://skillfulelectro.github.io/V2RayCollector/Config/all_configs.txt)
+- [config/tested_configs.txt](https://skillfulelectro.github.io/V2RayCollector/Config/tested_configs.txt)
 
 ## Telegram Channels
 
@@ -22,7 +23,6 @@ You can use this file to see which channels are providing the most configs.
 
 ## Notes
 
-- Configurations are updated every 30 minutes.
-- The best config is posted to the Telegram channel @V2RayRootFree.
+- Configurations are updated every 55 minutes.
 - Some channels may be invalid or contain no configs. Check `Logs/invalid_channels.txt` for details.
 - **Know a new channel?** If you know a Telegram channel that provides V2Ray configs, please share it in the [Issues](https://github.com/USERNAME/REPOSITORY/issues) section, and we'll add it to the list!
