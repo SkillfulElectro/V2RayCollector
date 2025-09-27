@@ -66,10 +66,18 @@ file_handler = logging.FileHandler(os.path.join(LOG_DIR, "collector.log"), mode=
 file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
 logger.addHandler(file_handler)
 
-def test_single_config(config, port, num_tests=NUM_CONFIG_TESTS, test_url=TEST_URL):
-    proxy = SingBoxProxy(config, http_port=port, socks_port=port + 1)
+def kill_singbox_process():
     try:
+        os.system("pkill -f sing-box") 
+    except Exception:
+        pass
+
+def test_single_config(config, port, num_tests=NUM_CONFIG_TESTS, test_url=TEST_URL):
+    proxy = None
+    try:
+        proxy = SingBoxProxy(config, http_port=port, socks_port=port + 1)
         proxy.start()
+
         latencies = []
         for _ in range(num_tests):
             start_time = time.time()
@@ -79,16 +87,22 @@ def test_single_config(config, port, num_tests=NUM_CONFIG_TESTS, test_url=TEST_U
                 raise ValueError(f"Non-200 status: {response.status_code}")
             latency_ms = (time.time() - start_time) * 1000.0
             latencies.append(latency_ms)
+
         avg_latency = sum(latencies) / len(latencies)
         return (config, avg_latency)
+
     except Exception:
         return None
+
     finally:
         try:
-            proxy.stop()
+            if proxy:
+                proxy.stop()
         except Exception:
             pass
+
         time.sleep(STOP_GRACE)
+        kill_singbox_process() 
 
 def test_configs(configs):
     if not configs:
@@ -96,7 +110,7 @@ def test_configs(configs):
 
     results = []
     for i, config in enumerate(configs):
-        port = BASE_PORT + i * 2
+        port = BASE_PORT + i
         result = test_single_config(config, port)
         if result is not None:
             results.append(result)
