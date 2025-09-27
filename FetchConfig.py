@@ -44,6 +44,8 @@ OPERATORS = {
     "#شاتل": "Shatel",
 }
 
+FINAL_FETCH_FILE = "all_configs.txt"
+
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
 
@@ -380,13 +382,20 @@ async def main():
                 logger.info(f"Found {len(all_operator_configs[op])} unique configs for operator {op}")
             all_proxies = list(set(all_proxies))
 
+            configs_all_list = []
             for protocol in all_configs:
-                save_configs(all_configs[protocol], protocol)
-            save_operator_configs(all_operator_configs)
-            save_proxies(all_proxies)
+                configs_all_list += all_configs[protocol]
+
+            for op, configs in all_operator_configs.items():
+                configs_all_list += configs
+            
+            save_configs(configs_all_list, FINAL_FETCH_FILE)
+            
+            #save_operator_configs(all_operator_configs)
+            #save_proxies(all_proxies)
             save_invalid_channels(invalid_channels)
             save_channel_stats(channel_stats)
-            await post_config_and_proxies_to_channel(client, all_configs, all_proxies, channel_stats)
+            # await post_config_and_proxies_to_channel(client, all_configs, all_proxies, channel_stats)
             update_channels(valid_channels)
 
     except Exception as e:
