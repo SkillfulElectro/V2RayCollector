@@ -54,6 +54,7 @@ TESTED_FILE = "tested_configs"
 NUM_CONFIG_TESTS = 3
 TEST_URL = "https://aistudio.google.com/"
 STOP_GRACE = 0.2
+BASE_PORT = 10000
 
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
