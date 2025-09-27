@@ -44,7 +44,7 @@ OPERATORS = {
     "#شاتل": "Shatel",
 }
 
-FINAL_FETCH_FILE = "all_configs.txt"
+FINAL_FETCH_FILE = "all_configs"
 
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
