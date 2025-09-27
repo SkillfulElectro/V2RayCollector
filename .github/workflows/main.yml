@@ -1,5 +1,8 @@
 name: Fetch V2Ray Config
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/30 * * * *"
