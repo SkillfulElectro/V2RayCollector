@@ -1,16 +1,11 @@
-# V2RayConfig
+# V2RayConfig_fork
 
-This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions and posts the best config to @V2RayRootFree.
+This project automatically fetches V2Ray configurations from Telegram channels every 30 minutes using GitHub Actions.
 
 **[نسخه فارسی (Persian)](README.fa.md)**
 
 ## Configuration Files
-
-| Protocol      | Link                           |
-|---------------|--------------------------------|
-| VLESS         | [`Config/vless.txt`](Config/vless.txt)         |
-| VMess         | [`Config/vmess.txt`](Config/vmess.txt)         |
-| Shadowsocks   | [`Config/shadowsocks.txt`](Config/shadowsocks.txt) |
+- config/all_configs.txt
 
 ## Telegram Channels
 
