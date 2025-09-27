@@ -14,7 +14,6 @@ from collections import defaultdict
 
 import time
 import requests
-from concurrent.futures import ThreadPoolExecutor
 from singbox2proxy import SingBoxProxy
 
 SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING", None)
@@ -54,6 +53,7 @@ FINAL_FETCH_FILE = "all_configs"
 TESTED_FILE = "tested_configs"
 NUM_CONFIG_TESTS = 3
 TEST_URL = "https://aistudio.google.com/"
+STOP_GRACE = 0.2
 
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
@@ -65,40 +65,41 @@ file_handler = logging.FileHandler(os.path.join(LOG_DIR, "collector.log"), mode=
 file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
 logger.addHandler(file_handler)
 
-def test_single_config(args):
-    config, port = args
+def test_single_config(config, port, num_tests=NUM_CONFIG_TESTS, test_url=TEST_URL):
     proxy = SingBoxProxy(config, http_port=port, socks_port=port + 1)
     try:
         proxy.start()
         latencies = []
-        for _ in range(NUM_CONFIG_TESTS):
+        for _ in range(num_tests):
             start_time = time.time()
-            proxies = proxy.proxy_for_requests  
-            response = requests.get(TEST_URL, proxies=proxies, timeout=10)
+            proxies = proxy.proxy_for_requests
+            response = requests.get(test_url, proxies=proxies, timeout=10)
             if response.status_code != 200:
                 raise ValueError(f"Non-200 status: {response.status_code}")
-            latency = (time.time() - start_time) * 1000  # ms
-            latencies.append(latency)
+            latency_ms = (time.time() - start_time) * 1000.0
+            latencies.append(latency_ms)
         avg_latency = sum(latencies) / len(latencies)
         return (config, avg_latency)
     except Exception:
-
         return None
     finally:
-        proxy.stop()
+        try:
+            proxy.stop()
+        except Exception:
+            pass
+        time.sleep(STOP_GRACE)
 
 def test_configs(configs):
+    if not configs:
+        return []
+
     results = []
-    base_port = 10000
-    config_ports = [(config, base_port + i * 2) for i, config in enumerate(configs)] 
+    for i, config in enumerate(configs):
+        port = BASE_PORT + i * 2
+        result = test_single_config(config, port)
+        if result is not None:
+            results.append(result)
 
-    with ThreadPoolExecutor(max_workers=min(len(configs), 10)) as executor:
-
-        futures = executor.map(test_single_config, config_ports)
-        for result in futures:
-            if result is not None:  
-                results.append(result)
-    
     sorted_results = sorted(results, key=lambda x: x[1])
     sorted_configs = [config for config, _ in sorted_results]
     return sorted_configs
