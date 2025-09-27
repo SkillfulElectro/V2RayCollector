@@ -15,7 +15,7 @@ from collections import defaultdict
 import time
 import requests
 from concurrent.futures import ThreadPoolExecutor
-from v2ray2proxy import V2RayProxy
+from singbox2proxy import SingBoxProxy
 
 SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING", None)
 API_ID = os.getenv("TELEGRAM_API_ID", None)
@@ -67,16 +67,13 @@ logger.addHandler(file_handler)
 
 def test_single_config(args):
     config, port = args
-    proxy = V2RayProxy(config, http_port=port, socks_port=port + 1)
+    proxy = SingBoxProxy(config, http_port=port, socks_port=port + 1)
     try:
         proxy.start()
         latencies = []
         for _ in range(NUM_CONFIG_TESTS):
             start_time = time.time()
-            proxies = {
-                "http": proxy.http_proxy_url,
-                "https": proxy.http_proxy_url
-            }
+            proxies = proxy.proxy_for_requests  
             response = requests.get(TEST_URL, proxies=proxies, timeout=10)
             if response.status_code != 200:
                 raise ValueError(f"Non-200 status: {response.status_code}")
@@ -85,33 +82,23 @@ def test_single_config(args):
         avg_latency = sum(latencies) / len(latencies)
         return (config, avg_latency)
     except Exception:
+
         return None
     finally:
         proxy.stop()
 
 def test_configs(configs):
     results = []
-    for config in configs:
-        proxy = V2RayProxy(config)
-        try:
-            latencies = []
-            for _ in range(NUM_CONFIG_TESTS):
-                start_time = time.time()
-                proxies = {
-                    "http": proxy.http_proxy_url,
-                    "https": proxy.http_proxy_url
-                }
-                response = requests.get(TEST_URL, proxies=proxies, timeout=10)
-                if response.status_code != 200:
-                    raise ValueError(f"Non-200 status: {response.status_code}")
-                latency = (time.time() - start_time) * 1000  # ms
-                latencies.append(latency)
-            avg_latency = sum(latencies) / len(latencies)
-            results.append((config, avg_latency))
-        except Exception:
-            pass
-        finally:
-            proxy.stop()
+    base_port = 10000
+    config_ports = [(config, base_port + i * 2) for i, config in enumerate(configs)] 
+
+    with ThreadPoolExecutor(max_workers=min(len(configs), 10)) as executor:
+
+        futures = executor.map(test_single_config, config_ports)
+        for result in futures:
+            if result is not None:  
+                results.append(result)
+    
     sorted_results = sorted(results, key=lambda x: x[1])
     sorted_configs = [config for config, _ in sorted_results]
     return sorted_configs
