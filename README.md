@@ -1,6 +1,6 @@
 # V2RayCollector
 
-This project automatically fetches V2Ray configurations from Telegram channels at 10:30 and 23:30 in UTC time .
+This project automatically fetches V2Ray configurations from Telegram channels at 10:30 in UTC time .
 
 
 
@@ -23,6 +23,6 @@ You can use this file to see which channels are providing the most configs.
 
 ## Notes
 
-- Configurations are updated two times a day.
+- Configurations are updated once a day.
 - Some channels may be invalid or contain no configs. Check `Logs/invalid_channels.txt` for details.
 - **Know a new channel?** If you know a Telegram channel that provides V2Ray configs, please share it in the [Issues](https://github.com/SkillfulElectro/V2RayCollector/issues) section, and we'll add it to the list!
