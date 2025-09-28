@@ -12,9 +12,6 @@ from telethon.sessions import StringSession
 from telethon.errors import ChannelInvalidError, PeerIdInvalidError
 from collections import defaultdict
 
-import time
-import requests
-from singbox2proxy import SingBoxProxy
 
 SESSION_STRING = os.getenv("TELEGRAM_SESSION_STRING", None)
 API_ID = os.getenv("TELEGRAM_API_ID", None)
@@ -50,12 +47,6 @@ OPERATORS = {
 
 FINAL_FETCH_FILE = "all_configs"
 
-TESTED_FILE = "tested_configs"
-NUM_CONFIG_TESTS = 3
-TEST_URL = "https://aistudio.google.com/"
-STOP_GRACE = 0.2
-BASE_PORT = 10000
-
 if not os.path.exists(LOG_DIR):
     os.makedirs(LOG_DIR)
 
@@ -65,59 +56,6 @@ logger.handlers = []
 file_handler = logging.FileHandler(os.path.join(LOG_DIR, "collector.log"), mode='w', encoding='utf-8')
 file_handler.setFormatter(logging.Formatter("%(asctime)s - %(levelname)s - %(message)s"))
 logger.addHandler(file_handler)
-
-def kill_singbox_process():
-    try:
-        os.system("pkill -f sing-box") 
-    except Exception:
-        pass
-
-def test_single_config(config, port, num_tests=NUM_CONFIG_TESTS, test_url=TEST_URL):
-    proxy = None
-    try:
-        proxy = SingBoxProxy(config, http_port=port, socks_port=port + 1)
-        proxy.start()
-
-        latencies = []
-        for _ in range(num_tests):
-            start_time = time.time()
-            proxies = proxy.proxy_for_requests
-            response = requests.get(test_url, proxies=proxies, timeout=10)
-            if response.status_code != 200:
-                raise ValueError(f"Non-200 status: {response.status_code}")
-            latency_ms = (time.time() - start_time) * 1000.0
-            latencies.append(latency_ms)
-
-        avg_latency = sum(latencies) / len(latencies)
-        return (config, avg_latency)
-
-    except Exception:
-        return None
-
-    finally:
-        try:
-            if proxy:
-                proxy.stop()
-        except Exception:
-            pass
-
-        time.sleep(STOP_GRACE)
-        kill_singbox_process() 
-
-def test_configs(configs):
-    if not configs:
-        return []
-
-    results = []
-    for i, config in enumerate(configs):
-        port = BASE_PORT + i
-        result = test_single_config(config, port)
-        if result is not None:
-            results.append(result)
-
-    sorted_results = sorted(results, key=lambda x: x[1])
-    sorted_configs = [config for config, _ in sorted_results]
-    return sorted_configs
     
 
 def load_channels():
@@ -454,10 +392,6 @@ async def main():
                 configs_all_list += configs
             
             save_configs(configs_all_list, FINAL_FETCH_FILE)
-
-            tested_configs = test_configs(configs_all_list)
-
-            save_configs(tested_configs , TESTED_FILE)
             
             #save_operator_configs(all_operator_configs)
             #save_proxies(all_proxies)
