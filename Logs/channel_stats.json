@@ -1,23 +1,23 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "vless_count": 423,
-        "vmess_count": 57,
-        "shadowsocks_count": 502,
-        "trojan_count": 2,
+        "vless_count": 404,
+        "vmess_count": 54,
+        "shadowsocks_count": 482,
+        "trojan_count": 3,
         "proxy_count": 15,
-        "total_configs": 984,
-        "score": 999
+        "total_configs": 943,
+        "score": 958
     },
     {
         "channel": "@meli_proxyy",
-        "vless_count": 137,
+        "vless_count": 144,
         "vmess_count": 20,
-        "shadowsocks_count": 165,
+        "shadowsocks_count": 173,
         "trojan_count": 1,
         "proxy_count": 0,
-        "total_configs": 323,
-        "score": 323
+        "total_configs": 338,
+        "score": 338
     },
     {
         "channel": "@iMTProto",
@@ -25,19 +25,19 @@
         "vmess_count": 0,
         "shadowsocks_count": 0,
         "trojan_count": 0,
-        "proxy_count": 255,
+        "proxy_count": 270,
         "total_configs": 0,
-        "score": 255
+        "score": 270
     },
     {
         "channel": "@Farah_VPN",
-        "vless_count": 56,
+        "vless_count": 57,
         "vmess_count": 4,
-        "shadowsocks_count": 73,
+        "shadowsocks_count": 75,
         "trojan_count": 4,
         "proxy_count": 0,
-        "total_configs": 137,
-        "score": 137
+        "total_configs": 140,
+        "score": 140
     },
     {
         "channel": "@networld_vpn",
@@ -70,24 +70,24 @@
         "score": 68
     },
     {
-        "channel": "@v2rayng_cafe",
-        "vless_count": 16,
-        "vmess_count": 1,
-        "shadowsocks_count": 18,
+        "channel": "@marambashi",
+        "vless_count": 22,
+        "vmess_count": 0,
+        "shadowsocks_count": 23,
         "trojan_count": 0,
         "proxy_count": 0,
-        "total_configs": 35,
-        "score": 35
+        "total_configs": 45,
+        "score": 45
     },
     {
-        "channel": "@marambashi",
-        "vless_count": 15,
-        "vmess_count": 0,
-        "shadowsocks_count": 15,
-        "trojan_count": 0,
+        "channel": "@v2rayng_cafe",
+        "vless_count": 17,
+        "vmess_count": 1,
+        "shadowsocks_count": 20,
+        "trojan_count": 1,
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
+        "total_configs": 39,
+        "score": 39
     },
     {
         "channel": "@zedmodeonVPN",
