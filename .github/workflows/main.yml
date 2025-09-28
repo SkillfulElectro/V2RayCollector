@@ -36,6 +36,8 @@ jobs:
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
         run: |
           python FetchConfig.py
+          chmod +x test_configs.sh
+          ./test_configs.sh
 
       - name: Commit and push changes
         run: |
