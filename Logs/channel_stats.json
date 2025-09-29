@@ -1,13 +1,13 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "vless_count": 404,
-        "vmess_count": 47,
-        "shadowsocks_count": 496,
+        "vless_count": 391,
+        "vmess_count": 43,
+        "shadowsocks_count": 487,
         "trojan_count": 3,
-        "proxy_count": 15,
-        "total_configs": 950,
-        "score": 965
+        "proxy_count": 43,
+        "total_configs": 924,
+        "score": 967
     },
     {
         "channel": "@meli_proxyy",
@@ -31,13 +31,13 @@
     },
     {
         "channel": "@Farah_VPN",
-        "vless_count": 54,
+        "vless_count": 55,
         "vmess_count": 3,
-        "shadowsocks_count": 69,
+        "shadowsocks_count": 71,
         "trojan_count": 6,
         "proxy_count": 0,
-        "total_configs": 132,
-        "score": 132
+        "total_configs": 135,
+        "score": 135
     },
     {
         "channel": "@networld_vpn",
@@ -70,6 +70,16 @@
         "score": 67
     },
     {
+        "channel": "VlessConfig",
+        "vless_count": 21,
+        "vmess_count": 0,
+        "shadowsocks_count": 21,
+        "trojan_count": 0,
+        "proxy_count": 0,
+        "total_configs": 42,
+        "score": 42
+    },
+    {
         "channel": "ConfigX2ray",
         "vless_count": 20,
         "vmess_count": 0,
@@ -80,14 +90,14 @@
         "score": 40
     },
     {
-        "channel": "VlessConfig",
-        "vless_count": 20,
-        "vmess_count": 0,
-        "shadowsocks_count": 20,
-        "trojan_count": 0,
+        "channel": "@v2rayng_cafe",
+        "vless_count": 11,
+        "vmess_count": 1,
+        "shadowsocks_count": 15,
+        "trojan_count": 1,
         "proxy_count": 0,
-        "total_configs": 40,
-        "score": 40
+        "total_configs": 28,
+        "score": 28
     },
     {
         "channel": "@marambashi",
@@ -100,24 +110,14 @@
         "score": 26
     },
     {
-        "channel": "@v2rayng_cafe",
-        "vless_count": 9,
-        "vmess_count": 1,
-        "shadowsocks_count": 12,
-        "trojan_count": 1,
-        "proxy_count": 0,
-        "total_configs": 23,
-        "score": 23
-    },
-    {
         "channel": "@zedmodeonVPN",
-        "vless_count": 5,
+        "vless_count": 11,
         "vmess_count": 0,
-        "shadowsocks_count": 5,
+        "shadowsocks_count": 11,
         "trojan_count": 0,
         "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
+        "total_configs": 22,
+        "score": 22
     },
     {
         "channel": "@ArV2ray",
