@@ -1,13 +1,13 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "vless_count": 391,
-        "vmess_count": 43,
-        "shadowsocks_count": 487,
-        "trojan_count": 3,
+        "vless_count": 352,
+        "vmess_count": 36,
+        "shadowsocks_count": 447,
+        "trojan_count": 2,
         "proxy_count": 43,
-        "total_configs": 924,
-        "score": 967
+        "total_configs": 837,
+        "score": 880
     },
     {
         "channel": "@meli_proxyy",
@@ -25,19 +25,19 @@
         "vmess_count": 0,
         "shadowsocks_count": 0,
         "trojan_count": 0,
-        "proxy_count": 225,
+        "proxy_count": 255,
         "total_configs": 0,
-        "score": 225
+        "score": 255
     },
     {
         "channel": "@Farah_VPN",
-        "vless_count": 55,
+        "vless_count": 56,
         "vmess_count": 3,
-        "shadowsocks_count": 71,
+        "shadowsocks_count": 73,
         "trojan_count": 6,
         "proxy_count": 0,
-        "total_configs": 135,
-        "score": 135
+        "total_configs": 138,
+        "score": 138
     },
     {
         "channel": "@networld_vpn",
@@ -70,6 +70,16 @@
         "score": 67
     },
     {
+        "channel": "@v2rayng_cafe",
+        "vless_count": 16,
+        "vmess_count": 1,
+        "shadowsocks_count": 24,
+        "trojan_count": 1,
+        "proxy_count": 0,
+        "total_configs": 42,
+        "score": 42
+    },
+    {
         "channel": "VlessConfig",
         "vless_count": 21,
         "vmess_count": 0,
@@ -88,16 +98,6 @@
         "proxy_count": 0,
         "total_configs": 40,
         "score": 40
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "vless_count": 11,
-        "vmess_count": 1,
-        "shadowsocks_count": 15,
-        "trojan_count": 1,
-        "proxy_count": 0,
-        "total_configs": 28,
-        "score": 28
     },
     {
         "channel": "@marambashi",
