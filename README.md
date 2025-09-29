@@ -25,3 +25,9 @@ You can use this file to see which channels are providing the most configs.
 
 - Some channels may be invalid or contain no configs. Check `Logs/invalid_channels.txt` for details.
 - **Know a new channel?** If you know a Telegram channel that provides V2Ray configs, please share it in the [Issues](https://github.com/SkillfulElectro/V2RayCollector/issues) section, and we'll add it to the list!
+
+## Contribution
+- Contributions are welcomed :)
+
+## Thanks
+- thanks to [xray-knife](https://github.com/lilendian0x00/xray-knife) & [V2RayConfig](https://github.com/V2RayRoot/V2RayConfig) projects ❤️
