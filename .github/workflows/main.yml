@@ -47,6 +47,7 @@ jobs:
           git config --global user.email "action@github.com"
           git add Config/all_configs.txt || true
           git add Config/tested_configs.txt || true
+          git add Config/proxies.txt || true
           git add Logs/channel_stats.json || true
           git add Logs/invalid_channels.txt || true
           git add Logs/collector.log || true
