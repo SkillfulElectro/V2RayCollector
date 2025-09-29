@@ -1,13 +1,13 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "vless_count": 326,
-        "vmess_count": 42,
-        "shadowsocks_count": 396,
+        "vless_count": 341,
+        "vmess_count": 45,
+        "shadowsocks_count": 414,
         "trojan_count": 3,
         "proxy_count": 15,
-        "total_configs": 767,
-        "score": 782
+        "total_configs": 803,
+        "score": 818
     },
     {
         "channel": "@iMTProto",
@@ -21,33 +21,33 @@
     },
     {
         "channel": "@meli_proxyy",
-        "vless_count": 74,
+        "vless_count": 86,
         "vmess_count": 8,
-        "shadowsocks_count": 87,
+        "shadowsocks_count": 102,
         "trojan_count": 0,
         "proxy_count": 0,
-        "total_configs": 169,
-        "score": 169
+        "total_configs": 196,
+        "score": 196
     },
     {
         "channel": "@Farah_VPN",
-        "vless_count": 47,
+        "vless_count": 48,
         "vmess_count": 3,
-        "shadowsocks_count": 62,
-        "trojan_count": 5,
+        "shadowsocks_count": 63,
+        "trojan_count": 6,
         "proxy_count": 0,
-        "total_configs": 117,
-        "score": 117
+        "total_configs": 120,
+        "score": 120
     },
     {
         "channel": "@networld_vpn",
-        "vless_count": 28,
-        "vmess_count": 2,
-        "shadowsocks_count": 30,
+        "vless_count": 39,
+        "vmess_count": 3,
+        "shadowsocks_count": 42,
         "trojan_count": 0,
         "proxy_count": 28,
-        "total_configs": 60,
-        "score": 88
+        "total_configs": 84,
+        "score": 112
     },
     {
         "channel": "@HibyeVPnn",
@@ -71,13 +71,13 @@
     },
     {
         "channel": "VlessConfig",
-        "vless_count": 17,
+        "vless_count": 18,
         "vmess_count": 0,
-        "shadowsocks_count": 17,
+        "shadowsocks_count": 18,
         "trojan_count": 0,
         "proxy_count": 0,
-        "total_configs": 34,
-        "score": 34
+        "total_configs": 36,
+        "score": 36
     },
     {
         "channel": "@marambashi",
