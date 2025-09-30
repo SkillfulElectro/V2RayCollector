@@ -2,20 +2,20 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 73,
-        "total_configs": 869,
-        "score": 942
+        "total_configs": 823,
+        "score": 896
+    },
+    {
+        "channel": "@meli_proxyy",
+        "proxy_count": 0,
+        "total_configs": 230,
+        "score": 230
     },
     {
         "channel": "@iMTProto",
         "proxy_count": 222,
         "total_configs": 0,
         "score": 222
-    },
-    {
-        "channel": "@meli_proxyy",
-        "proxy_count": 0,
-        "total_configs": 220,
-        "score": 220
     },
     {
         "channel": "@networld_vpn",
@@ -26,8 +26,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 122,
-        "score": 122
+        "total_configs": 123,
+        "score": 123
     },
     {
         "channel": "@v2ray_alpha",
@@ -44,8 +44,20 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 39,
-        "score": 39
+        "total_configs": 43,
+        "score": 43
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 40,
+        "score": 40
+    },
+    {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 40,
+        "score": 40
     },
     {
         "channel": "@ConfigX2ray",
@@ -54,22 +66,10 @@
         "score": 36
     },
     {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 36,
-        "score": 36
-    },
-    {
         "channel": "@Eternal_Connect_Group",
-        "proxy_count": 22,
+        "proxy_count": 25,
         "total_configs": 6,
-        "score": 28
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 26,
-        "score": 26
+        "score": 31
     },
     {
         "channel": "@v_ng_gap",
@@ -104,8 +104,8 @@
     {
         "channel": "@lightning6",
         "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
+        "total_configs": 8,
+        "score": 8
     },
     {
         "channel": "@nufilter",
