@@ -12,7 +12,11 @@ CONFIG_PATTERNS = {
     "vless": r"vless://[^\s]+",
     "vmess": r"vmess://[^\s]+",
     "shadowsocks": r"ss://[^\s]+",
-    "trojan": r"trojan://[^\s]+"
+    "trojan": r"trojan://[^\s]+",
+    "shadowsocksr": r"ssr://[^\s]+",  # Extension of Shadowsocks with obfuscation features
+    "tuic": r"tuic://[^\s]+",         # QUIC-based proxy protocol (v4/v5)
+    "hysteria": r"hysteria://[^\s]+", # Hysteria 1 (QUIC-based, censorship-resistant)
+    "hysteria2": r"hysteria2://[^\s]+" # Hysteria 2 (enhanced version with better obfuscation)
 }
 PROXY_PATTERN = r"https:\/\/t\.me\/proxy\?server=[^&\s\)]+&port=\d+&secret=[^\s\)]+"
 FINAL_FETCH_FILE = "all_configs"
