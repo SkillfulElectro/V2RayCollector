@@ -26,8 +26,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 127,
-        "score": 127
+        "total_configs": 130,
+        "score": 130
     },
     {
         "channel": "@ConfigX2ray",
@@ -60,6 +60,12 @@
         "score": 44
     },
     {
+        "channel": "@Eternal_Connect_Group",
+        "proxy_count": 26,
+        "total_configs": 17,
+        "score": 43
+    },
+    {
         "channel": "@marambashi",
         "proxy_count": 0,
         "total_configs": 42,
@@ -70,12 +76,6 @@
         "proxy_count": 0,
         "total_configs": 38,
         "score": 38
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
-        "proxy_count": 20,
-        "total_configs": 6,
-        "score": 26
     },
     {
         "channel": "@TEHRANARGO",
