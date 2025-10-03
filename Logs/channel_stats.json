@@ -2,14 +2,14 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 38,
-        "total_configs": 599,
-        "score": 637
+        "total_configs": 613,
+        "score": 651
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 267,
+        "proxy_count": 286,
         "total_configs": 0,
-        "score": 267
+        "score": 286
     },
     {
         "channel": "@meli_proxyy",
@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 133,
-        "score": 133
+        "total_configs": 136,
+        "score": 136
     },
     {
         "channel": "@marambashi",
@@ -30,22 +30,22 @@
         "score": 69
     },
     {
+        "channel": "@v2nodes",
+        "proxy_count": 0,
+        "total_configs": 55,
+        "score": 55
+    },
+    {
         "channel": "@networld_vpn",
         "proxy_count": 10,
         "total_configs": 41,
         "score": 51
     },
     {
-        "channel": "@v2nodes",
-        "proxy_count": 0,
-        "total_configs": 51,
-        "score": 51
-    },
-    {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 42,
-        "score": 42
+        "total_configs": 44,
+        "score": 44
     },
     {
         "channel": "@HibyeVPnn",
@@ -78,6 +78,18 @@
         "score": 26
     },
     {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 24,
+        "score": 24
+    },
+    {
+        "channel": "@TEHRANARGO",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
+    },
+    {
         "channel": "@Eternal_Connect_Group",
         "proxy_count": 11,
         "total_configs": 11,
@@ -88,18 +100,6 @@
         "proxy_count": 0,
         "total_configs": 19,
         "score": 19
-    },
-    {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 16,
-        "score": 16
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
     },
     {
         "channel": "@lightning6",
