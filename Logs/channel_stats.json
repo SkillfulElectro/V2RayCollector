@@ -2,26 +2,32 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 38,
-        "total_configs": 554,
-        "score": 592
+        "total_configs": 569,
+        "score": 607
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 210,
+        "proxy_count": 229,
         "total_configs": 0,
-        "score": 210
+        "score": 229
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 209,
-        "score": 209
+        "total_configs": 221,
+        "score": 221
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 119,
-        "score": 119
+        "total_configs": 123,
+        "score": 123
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 54,
+        "score": 54
     },
     {
         "channel": "@networld_vpn",
@@ -32,26 +38,26 @@
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 49,
-        "score": 49
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 42,
-        "score": 42
-    },
-    {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 34,
-        "score": 34
+        "total_configs": 51,
+        "score": 51
     },
     {
         "channel": "@v_ng_gap",
         "proxy_count": 0,
-        "total_configs": 32,
-        "score": 32
+        "total_configs": 37,
+        "score": 37
+    },
+    {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 36,
+        "score": 36
+    },
+    {
+        "channel": "@ConfigX2ray",
+        "proxy_count": 0,
+        "total_configs": 28,
+        "score": 28
     },
     {
         "channel": "@vpn_ioss",
@@ -73,12 +79,6 @@
     },
     {
         "channel": "@HibyeVPnn",
-        "proxy_count": 0,
-        "total_configs": 20,
-        "score": 20
-    },
-    {
-        "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 20,
         "score": 20
