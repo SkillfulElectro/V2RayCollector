@@ -2,32 +2,38 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 43,
-        "total_configs": 528,
-        "score": 571
+        "total_configs": 584,
+        "score": 627
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 304,
+        "proxy_count": 323,
         "total_configs": 0,
-        "score": 304
+        "score": 323
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 242,
-        "score": 242
+        "total_configs": 318,
+        "score": 318
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 131,
-        "score": 131
+        "total_configs": 135,
+        "score": 135
     },
     {
         "channel": "@networld_vpn",
         "proxy_count": 20,
         "total_configs": 75,
         "score": 95
+    },
+    {
+        "channel": "@v2ray_alpha",
+        "proxy_count": 0,
+        "total_configs": 69,
+        "score": 69
     },
     {
         "channel": "@NetifyVPN",
@@ -42,16 +48,16 @@
         "score": 54
     },
     {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 40,
-        "score": 40
-    },
-    {
         "channel": "@marambashi",
         "proxy_count": 0,
-        "total_configs": 29,
-        "score": 29
+        "total_configs": 44,
+        "score": 44
+    },
+    {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 42,
+        "score": 42
     },
     {
         "channel": "@HibyeVPnn",
@@ -90,16 +96,16 @@
         "score": 14
     },
     {
-        "channel": "@V2Gatee",
+        "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
     },
     {
-        "channel": "@TEHRANARGO",
+        "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
+        "total_configs": 12,
+        "score": 12
     },
     {
         "channel": "@lightning6",
@@ -109,9 +115,9 @@
     },
     {
         "channel": "@Eternal_Connect_Group",
-        "proxy_count": 0,
+        "proxy_count": 3,
         "total_configs": 4,
-        "score": 4
+        "score": 7
     },
     {
         "channel": "@v_ng_gap",
@@ -121,12 +127,6 @@
     },
     {
         "channel": "@ArV2ray",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@v2ray_alpha",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
