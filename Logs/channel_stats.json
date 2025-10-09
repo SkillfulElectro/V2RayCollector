@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 134,
-        "score": 134
+        "total_configs": 137,
+        "score": 137
     },
     {
         "channel": "@networld_vpn",
@@ -48,6 +48,12 @@
         "score": 52
     },
     {
+        "channel": "@Eternal_Connect_Group",
+        "proxy_count": 18,
+        "total_configs": 30,
+        "score": 48
+    },
+    {
         "channel": "@marambashi",
         "proxy_count": 0,
         "total_configs": 45,
@@ -57,12 +63,6 @@
         "channel": "@VlessConfig",
         "proxy_count": 0,
         "total_configs": 44,
-        "score": 44
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
-        "proxy_count": 18,
-        "total_configs": 26,
         "score": 44
     },
     {
