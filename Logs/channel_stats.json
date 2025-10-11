@@ -1,27 +1,27 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 109,
-        "total_configs": 561,
-        "score": 670
+        "proxy_count": 94,
+        "total_configs": 595,
+        "score": 689
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 168,
+        "proxy_count": 189,
         "total_configs": 0,
-        "score": 168
+        "score": 189
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 124,
-        "score": 124
+        "total_configs": 142,
+        "score": 142
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 113,
-        "score": 113
+        "total_configs": 117,
+        "score": 117
     },
     {
         "channel": "@networld_vpn",
@@ -32,8 +32,8 @@
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 51,
-        "score": 51
+        "total_configs": 53,
+        "score": 53
     },
     {
         "channel": "@HibyeVPnn",
@@ -44,8 +44,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 34,
-        "score": 34
+        "total_configs": 36,
+        "score": 36
     },
     {
         "channel": "@NetifyVPN",
@@ -54,16 +54,16 @@
         "score": 34
     },
     {
+        "channel": "@V2Gatee",
+        "proxy_count": 0,
+        "total_configs": 30,
+        "score": 30
+    },
+    {
         "channel": "@marambashi",
         "proxy_count": 0,
         "total_configs": 27,
         "score": 27
-    },
-    {
-        "channel": "@V2Gatee",
-        "proxy_count": 0,
-        "total_configs": 24,
-        "score": 24
     },
     {
         "channel": "@zedmodeonVPN",
@@ -90,6 +90,12 @@
         "score": 8
     },
     {
+        "channel": "@v_ng_gap",
+        "proxy_count": 0,
+        "total_configs": 8,
+        "score": 8
+    },
+    {
         "channel": "@lightning6",
         "proxy_count": 0,
         "total_configs": 6,
@@ -97,12 +103,6 @@
     },
     {
         "channel": "@nufilter",
-        "proxy_count": 0,
-        "total_configs": 4,
-        "score": 4
-    },
-    {
-        "channel": "@v_ng_gap",
         "proxy_count": 0,
         "total_configs": 4,
         "score": 4
