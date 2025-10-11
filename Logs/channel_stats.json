@@ -2,14 +2,14 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 56,
-        "total_configs": 571,
-        "score": 627
+        "total_configs": 501,
+        "score": 557
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 231,
+        "proxy_count": 252,
         "total_configs": 0,
-        "score": 231
+        "score": 252
     },
     {
         "channel": "@meli_proxyy",
@@ -20,20 +20,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 125,
-        "score": 125
+        "total_configs": 128,
+        "score": 128
     },
     {
         "channel": "@networld_vpn",
-        "proxy_count": 10,
+        "proxy_count": 20,
         "total_configs": 76,
-        "score": 86
+        "score": 96
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 53,
-        "score": 53
+        "total_configs": 55,
+        "score": 55
     },
     {
         "channel": "@HibyeVPnn",
@@ -44,8 +44,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 42,
-        "score": 42
+        "total_configs": 44,
+        "score": 44
     },
     {
         "channel": "@marambashi",
@@ -74,14 +74,20 @@
     {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
+        "total_configs": 14,
+        "score": 14
     },
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
+    },
+    {
+        "channel": "@Eternal_Connect_Group",
+        "proxy_count": 6,
+        "total_configs": 4,
+        "score": 10
     },
     {
         "channel": "@lightning6",
@@ -105,12 +111,6 @@
         "channel": "@nufilter",
         "proxy_count": 0,
         "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
-        "proxy_count": 6,
-        "total_configs": 0,
         "score": 6
     },
     {
