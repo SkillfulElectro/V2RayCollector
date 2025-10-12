@@ -8,8 +8,8 @@
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 327,
-        "score": 327
+        "total_configs": 333,
+        "score": 333
     },
     {
         "channel": "@iMTProto",
@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 131,
-        "score": 131
+        "total_configs": 135,
+        "score": 135
     },
     {
         "channel": "@networld_vpn",
@@ -66,6 +66,12 @@
         "score": 24
     },
     {
+        "channel": "@v_ng_gap",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
+    },
+    {
         "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 20,
@@ -73,12 +79,6 @@
     },
     {
         "channel": "@V2Gatee",
-        "proxy_count": 0,
-        "total_configs": 18,
-        "score": 18
-    },
-    {
-        "channel": "@v_ng_gap",
         "proxy_count": 0,
         "total_configs": 18,
         "score": 18
