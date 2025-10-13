@@ -2,14 +2,14 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 30,
-        "total_configs": 702,
-        "score": 732
+        "total_configs": 696,
+        "score": 726
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 403,
-        "score": 403
+        "total_configs": 413,
+        "score": 413
     },
     {
         "channel": "@iMTProto",
@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 139,
-        "score": 139
+        "total_configs": 141,
+        "score": 141
     },
     {
         "channel": "@networld_vpn",
@@ -36,28 +36,28 @@
         "score": 80
     },
     {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 44,
+        "score": 44
+    },
+    {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 40,
-        "score": 40
+        "total_configs": 41,
+        "score": 41
     },
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 36,
-        "score": 36
+        "total_configs": 40,
+        "score": 40
     },
     {
         "channel": "@v_ng_gap",
         "proxy_count": 0,
         "total_configs": 31,
         "score": 31
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 26,
-        "score": 26
     },
     {
         "channel": "@vpn_ioss",
@@ -78,6 +78,12 @@
         "score": 20
     },
     {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 0,
+        "total_configs": 18,
+        "score": 18
+    },
+    {
         "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 14,
@@ -88,12 +94,6 @@
         "proxy_count": 0,
         "total_configs": 14,
         "score": 14
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
     },
     {
         "channel": "@TEHRANARGO",
