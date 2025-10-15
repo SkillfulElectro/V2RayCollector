@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 141,
-        "score": 141
+        "total_configs": 143,
+        "score": 143
     },
     {
         "channel": "@networld_vpn",
@@ -36,16 +36,16 @@
         "score": 80
     },
     {
+        "channel": "@v2nodes",
+        "proxy_count": 0,
+        "total_configs": 58,
+        "score": 58
+    },
+    {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
         "total_configs": 57,
         "score": 57
-    },
-    {
-        "channel": "@v2nodes",
-        "proxy_count": 0,
-        "total_configs": 56,
-        "score": 56
     },
     {
         "channel": "@HibyeVPnn",
@@ -102,6 +102,12 @@
         "score": 12
     },
     {
+        "channel": "@nufilter",
+        "proxy_count": 0,
+        "total_configs": 10,
+        "score": 10
+    },
+    {
         "channel": "@Eternal_Connect_Group",
         "proxy_count": 3,
         "total_configs": 7,
@@ -112,12 +118,6 @@
         "proxy_count": 0,
         "total_configs": 8,
         "score": 8
-    },
-    {
-        "channel": "@nufilter",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
     },
     {
         "channel": "@ArV2ray",
