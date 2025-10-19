@@ -2,8 +2,14 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 30,
-        "total_configs": 445,
-        "score": 475
+        "total_configs": 437,
+        "score": 467
+    },
+    {
+        "channel": "@meli_proxyy",
+        "proxy_count": 0,
+        "total_configs": 341,
+        "score": 341
     },
     {
         "channel": "@iMTProto",
@@ -12,16 +18,10 @@
         "score": 340
     },
     {
-        "channel": "@meli_proxyy",
-        "proxy_count": 0,
-        "total_configs": 312,
-        "score": 312
-    },
-    {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 138,
-        "score": 138
+        "total_configs": 142,
+        "score": 142
     },
     {
         "channel": "@networld_vpn",
@@ -44,8 +44,14 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 54,
-        "score": 54
+        "total_configs": 56,
+        "score": 56
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 55,
+        "score": 55
     },
     {
         "channel": "@v2rayng_cafe",
@@ -54,34 +60,34 @@
         "score": 44
     },
     {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 41,
-        "score": 41
-    },
-    {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 34,
-        "score": 34
+        "total_configs": 37,
+        "score": 37
     },
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
+        "total_configs": 32,
+        "score": 32
     },
     {
         "channel": "@v_ng_gap",
         "proxy_count": 0,
-        "total_configs": 29,
-        "score": 29
+        "total_configs": 31,
+        "score": 31
     },
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 28,
         "score": 28
+    },
+    {
+        "channel": "@ConfigX2ray",
+        "proxy_count": 0,
+        "total_configs": 18,
+        "score": 18
     },
     {
         "channel": "@V2Gatee",
@@ -94,12 +100,6 @@
         "proxy_count": 0,
         "total_configs": 16,
         "score": 16
-    },
-    {
-        "channel": "@ConfigX2ray",
-        "proxy_count": 0,
-        "total_configs": 14,
-        "score": 14
     },
     {
         "channel": "@lightning6",
