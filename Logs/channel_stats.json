@@ -1,27 +1,27 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 57,
-        "total_configs": 431,
-        "score": 488
+        "proxy_count": 30,
+        "total_configs": 425,
+        "score": 455
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 396,
-        "score": 396
+        "total_configs": 428,
+        "score": 428
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 280,
+        "proxy_count": 300,
         "total_configs": 0,
-        "score": 280
+        "score": 300
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 135,
-        "score": 135
+        "total_configs": 138,
+        "score": 138
     },
     {
         "channel": "@networld_vpn",
@@ -38,8 +38,8 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 43,
-        "score": 43
+        "total_configs": 47,
+        "score": 47
     },
     {
         "channel": "@TEHRANARGO",
@@ -50,8 +50,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
+        "total_configs": 32,
+        "score": 32
     },
     {
         "channel": "@v2nodes",
@@ -60,16 +60,16 @@
         "score": 25
     },
     {
-        "channel": "@HibyeVPnn",
+        "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 24,
         "score": 24
     },
     {
-        "channel": "@zedmodeonVPN",
+        "channel": "@HibyeVPnn",
         "proxy_count": 0,
-        "total_configs": 16,
-        "score": 16
+        "total_configs": 24,
+        "score": 24
     },
     {
         "channel": "@v_ng_gap",
@@ -84,16 +84,16 @@
         "score": 15
     },
     {
-        "channel": "@V2Gatee",
+        "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
     },
     {
-        "channel": "@ConfigX2ray",
+        "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
+        "total_configs": 12,
+        "score": 12
     },
     {
         "channel": "@lightning6",
