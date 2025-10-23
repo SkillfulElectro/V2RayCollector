@@ -2,8 +2,8 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 0,
-        "total_configs": 422,
-        "score": 422
+        "total_configs": 415,
+        "score": 415
     },
     {
         "channel": "@meli_proxyy",
@@ -13,21 +13,21 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 220,
+        "proxy_count": 240,
         "total_configs": 0,
-        "score": 220
+        "score": 240
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 118,
-        "score": 118
+        "total_configs": 119,
+        "score": 119
     },
     {
         "channel": "@networld_vpn",
         "proxy_count": 10,
-        "total_configs": 66,
-        "score": 76
+        "total_configs": 88,
+        "score": 98
     },
     {
         "channel": "@marambashi",
@@ -38,20 +38,20 @@
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 41,
-        "score": 41
+        "total_configs": 42,
+        "score": 42
+    },
+    {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 37,
+        "score": 37
     },
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 36,
         "score": 36
-    },
-    {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 35,
-        "score": 35
     },
     {
         "channel": "@vpn_ioss",
@@ -84,6 +84,12 @@
         "score": 18
     },
     {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 0,
+        "total_configs": 8,
+        "score": 8
+    },
+    {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 8,
@@ -96,22 +102,16 @@
         "score": 6
     },
     {
-        "channel": "@V2Gatee",
+        "channel": "@nufilter",
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
     },
     {
-        "channel": "@nufilter",
+        "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 4,
-        "score": 4
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 4,
-        "score": 4
+        "total_configs": 6,
+        "score": 6
     },
     {
         "channel": "@ArV2ray",
