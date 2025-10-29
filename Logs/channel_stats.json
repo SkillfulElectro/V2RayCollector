@@ -2,32 +2,32 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 51,
-        "total_configs": 475,
-        "score": 526
+        "total_configs": 560,
+        "score": 611
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 344,
-        "score": 344
+        "total_configs": 360,
+        "score": 360
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 284,
-        "score": 284
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 160,
-        "total_configs": 0,
-        "score": 160
+        "total_configs": 290,
+        "score": 290
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 157,
-        "score": 157
+        "total_configs": 179,
+        "score": 179
+    },
+    {
+        "channel": "@iMTProto",
+        "proxy_count": 177,
+        "total_configs": 0,
+        "score": 177
     },
     {
         "channel": "@v2ray_alpha",
@@ -42,16 +42,16 @@
         "score": 92
     },
     {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 55,
+        "score": 55
+    },
+    {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
         "total_configs": 51,
         "score": 51
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 39,
-        "score": 39
     },
     {
         "channel": "@VlessConfig",
@@ -70,6 +70,12 @@
         "proxy_count": 0,
         "total_configs": 24,
         "score": 24
+    },
+    {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 0,
+        "total_configs": 23,
+        "score": 23
     },
     {
         "channel": "@HibyeVPnn",
@@ -112,12 +118,6 @@
         "proxy_count": 0,
         "total_configs": 8,
         "score": 8
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
     },
     {
         "channel": "@ArV2ray",
