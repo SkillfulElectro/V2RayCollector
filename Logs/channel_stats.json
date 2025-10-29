@@ -1,9 +1,9 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 51,
-        "total_configs": 560,
-        "score": 611
+        "proxy_count": 30,
+        "total_configs": 468,
+        "score": 498
     },
     {
         "channel": "@meli_proxyy",
@@ -14,14 +14,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 290,
-        "score": 290
+        "total_configs": 297,
+        "score": 297
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 179,
-        "score": 179
+        "total_configs": 189,
+        "score": 189
     },
     {
         "channel": "@iMTProto",
@@ -42,22 +42,28 @@
         "score": 92
     },
     {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 57,
+        "score": 57
+    },
+    {
         "channel": "@marambashi",
         "proxy_count": 0,
         "total_configs": 55,
         "score": 55
     },
     {
-        "channel": "@NetifyVPN",
+        "channel": "@v2rayng_cafe",
         "proxy_count": 0,
-        "total_configs": 51,
-        "score": 51
+        "total_configs": 44,
+        "score": 44
     },
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
+        "total_configs": 32,
+        "score": 32
     },
     {
         "channel": "@v_ng_gap",
@@ -72,16 +78,22 @@
         "score": 24
     },
     {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 23,
-        "score": 23
-    },
-    {
         "channel": "@HibyeVPnn",
         "proxy_count": 0,
         "total_configs": 22,
         "score": 22
+    },
+    {
+        "channel": "@ConfigX2ray",
+        "proxy_count": 0,
+        "total_configs": 14,
+        "score": 14
+    },
+    {
+        "channel": "@TEHRANARGO",
+        "proxy_count": 0,
+        "total_configs": 14,
+        "score": 14
     },
     {
         "channel": "@V2Gatee",
@@ -102,19 +114,7 @@
         "score": 10
     },
     {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
-    },
-    {
         "channel": "@lightning6",
-        "proxy_count": 0,
-        "total_configs": 8,
-        "score": 8
-    },
-    {
-        "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 8,
         "score": 8
