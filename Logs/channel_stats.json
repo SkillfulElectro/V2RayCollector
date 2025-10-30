@@ -1,15 +1,15 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 30,
-        "total_configs": 345,
-        "score": 375
+        "proxy_count": 15,
+        "total_configs": 350,
+        "score": 365
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 311,
-        "score": 311
+        "total_configs": 309,
+        "score": 309
     },
     {
         "channel": "@meli_proxyy",
@@ -20,8 +20,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 280,
-        "score": 280
+        "total_configs": 285,
+        "score": 285
     },
     {
         "channel": "@v2ray_alpha",
@@ -31,9 +31,9 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 110,
+        "proxy_count": 118,
         "total_configs": 0,
-        "score": 110
+        "score": 118
     },
     {
         "channel": "@networld_vpn",
@@ -44,8 +44,8 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 49,
-        "score": 49
+        "total_configs": 51,
+        "score": 51
     },
     {
         "channel": "@v2rayng_cafe",
@@ -62,8 +62,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 26,
-        "score": 26
+        "total_configs": 28,
+        "score": 28
     },
     {
         "channel": "@v_ng_gap",
@@ -86,20 +86,14 @@
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
-        "total_configs": 14,
-        "score": 14
+        "total_configs": 20,
+        "score": 20
     },
     {
         "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
     },
     {
         "channel": "@ConfigX2ray",
@@ -118,6 +112,12 @@
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
+    },
+    {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 4,
+        "score": 4
     },
     {
         "channel": "@ArV2ray",
