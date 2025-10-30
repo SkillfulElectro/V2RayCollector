@@ -2,26 +2,26 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 30,
-        "total_configs": 452,
-        "score": 482
+        "total_configs": 457,
+        "score": 487
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 324,
-        "score": 324
+        "total_configs": 319,
+        "score": 319
+    },
+    {
+        "channel": "@Farah_VPN",
+        "proxy_count": 0,
+        "total_configs": 267,
+        "score": 267
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
         "total_configs": 265,
         "score": 265
-    },
-    {
-        "channel": "@Farah_VPN",
-        "proxy_count": 0,
-        "total_configs": 262,
-        "score": 262
     },
     {
         "channel": "@v2ray_alpha",
@@ -31,9 +31,9 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 101,
+        "proxy_count": 102,
         "total_configs": 0,
-        "score": 101
+        "score": 102
     },
     {
         "channel": "@networld_vpn",
@@ -42,16 +42,16 @@
         "score": 55
     },
     {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 49,
+        "score": 49
+    },
+    {
         "channel": "@v2rayng_cafe",
         "proxy_count": 0,
         "total_configs": 44,
         "score": 44
-    },
-    {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 43,
-        "score": 43
     },
     {
         "channel": "@marambashi",
@@ -90,6 +90,12 @@
         "score": 14
     },
     {
+        "channel": "@V2Gatee",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
         "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 10,
@@ -109,12 +115,6 @@
     },
     {
         "channel": "@nufilter",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
