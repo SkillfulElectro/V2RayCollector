@@ -2,8 +2,8 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 30,
-        "total_configs": 356,
-        "score": 386
+        "total_configs": 368,
+        "score": 398
     },
     {
         "channel": "@v2nodes",
@@ -14,20 +14,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 272,
-        "score": 272
+        "total_configs": 276,
+        "score": 276
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 236,
+        "proxy_count": 245,
         "total_configs": 0,
-        "score": 236
+        "score": 245
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 154,
-        "score": 154
+        "total_configs": 181,
+        "score": 181
     },
     {
         "channel": "@networld_vpn",
@@ -37,15 +37,15 @@
     },
     {
         "channel": "@v_ng_gap",
-        "proxy_count": 0,
-        "total_configs": 35,
-        "score": 35
+        "proxy_count": 2,
+        "total_configs": 38,
+        "score": 40
     },
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 33,
-        "score": 33
+        "total_configs": 35,
+        "score": 35
     },
     {
         "channel": "@v2ray_alpha",
@@ -84,16 +84,22 @@
         "score": 14
     },
     {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
     },
     {
-        "channel": "@zedmodeonVPN",
+        "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
+        "total_configs": 12,
+        "score": 12
     },
     {
         "channel": "@lightning6",
@@ -103,12 +109,6 @@
     },
     {
         "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
