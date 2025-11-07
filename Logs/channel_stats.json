@@ -2,20 +2,20 @@
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 551,
-        "score": 551
+        "total_configs": 572,
+        "score": 572
     },
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 30,
-        "total_configs": 294,
-        "score": 324
+        "total_configs": 273,
+        "score": 303
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 292,
-        "score": 292
+        "total_configs": 299,
+        "score": 299
     },
     {
         "channel": "@iMTProto",
@@ -26,8 +26,8 @@
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 183,
-        "score": 183
+        "total_configs": 184,
+        "score": 184
     },
     {
         "channel": "@v2ray_alpha",
@@ -44,32 +44,32 @@
     {
         "channel": "@marambashi",
         "proxy_count": 0,
-        "total_configs": 42,
-        "score": 42
+        "total_configs": 55,
+        "score": 55
     },
     {
         "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 32,
+        "score": 32
+    },
+    {
+        "channel": "@v_ng_gap",
         "proxy_count": 0,
         "total_configs": 30,
         "score": 30
     },
     {
-        "channel": "@v_ng_gap",
+        "channel": "@ConfigX2ray",
         "proxy_count": 0,
-        "total_configs": 23,
-        "score": 23
+        "total_configs": 18,
+        "score": 18
     },
     {
         "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 18,
         "score": 18
-    },
-    {
-        "channel": "@ConfigX2ray",
-        "proxy_count": 0,
-        "total_configs": 16,
-        "score": 16
     },
     {
         "channel": "@NetifyVPN",
@@ -104,8 +104,8 @@
     {
         "channel": "@Eternal_Connect_Group",
         "proxy_count": 0,
-        "total_configs": 3,
-        "score": 3
+        "total_configs": 6,
+        "score": 6
     },
     {
         "channel": "@ArV2ray",
