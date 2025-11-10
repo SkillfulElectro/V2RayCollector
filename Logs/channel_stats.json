@@ -1,9 +1,9 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 15,
-        "total_configs": 334,
-        "score": 349
+        "proxy_count": 30,
+        "total_configs": 333,
+        "score": 363
     },
     {
         "channel": "@meli_proxyy",
@@ -14,20 +14,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 262,
-        "score": 262
+        "total_configs": 270,
+        "score": 270
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 217,
+        "proxy_count": 235,
         "total_configs": 0,
-        "score": 217
+        "score": 235
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 181,
-        "score": 181
+        "total_configs": 183,
+        "score": 183
     },
     {
         "channel": "@v2ray_alpha",
@@ -44,8 +44,8 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 33,
-        "score": 33
+        "total_configs": 37,
+        "score": 37
     },
     {
         "channel": "@v_ng_gap",
@@ -62,20 +62,20 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 28,
-        "score": 28
+        "total_configs": 30,
+        "score": 30
+    },
+    {
+        "channel": "@TEHRANARGO",
+        "proxy_count": 0,
+        "total_configs": 30,
+        "score": 30
     },
     {
         "channel": "@HibyeVPnn",
         "proxy_count": 0,
         "total_configs": 21,
         "score": 21
-    },
-    {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 20,
-        "score": 20
     },
     {
         "channel": "@v2rayng_cafe",
