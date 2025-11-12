@@ -2,20 +2,26 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 48,
-        "total_configs": 378,
-        "score": 426
+        "total_configs": 389,
+        "score": 437
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 280,
-        "score": 280
+        "total_configs": 282,
+        "score": 282
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 262,
-        "score": 262
+        "total_configs": 271,
+        "score": 271
+    },
+    {
+        "channel": "@iMTProto",
+        "proxy_count": 252,
+        "total_configs": 0,
+        "score": 252
     },
     {
         "channel": "@meli_proxyy",
@@ -24,28 +30,22 @@
         "score": 241
     },
     {
-        "channel": "@iMTProto",
-        "proxy_count": 234,
-        "total_configs": 0,
-        "score": 234
-    },
-    {
         "channel": "@networld_vpn",
         "proxy_count": 10,
         "total_configs": 106,
         "score": 116
     },
     {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 49,
+        "score": 49
+    },
+    {
         "channel": "@v_ng_gap",
         "proxy_count": 0,
         "total_configs": 45,
         "score": 45
-    },
-    {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 41,
-        "score": 41
     },
     {
         "channel": "@v2ray_alpha",
@@ -62,8 +62,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 24,
-        "score": 24
+        "total_configs": 28,
+        "score": 28
     },
     {
         "channel": "@HibyeVPnn",
@@ -84,16 +84,22 @@
         "score": 15
     },
     {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
     },
     {
-        "channel": "@zedmodeonVPN",
+        "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
+        "total_configs": 12,
+        "score": 12
     },
     {
         "channel": "@lightning6",
@@ -103,12 +109,6 @@
     },
     {
         "channel": "@nufilter",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
