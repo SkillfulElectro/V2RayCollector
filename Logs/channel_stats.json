@@ -8,20 +8,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 308,
-        "score": 308
+        "total_configs": 315,
+        "score": 315
+    },
+    {
+        "channel": "@iMTProto",
+        "proxy_count": 301,
+        "total_configs": 0,
+        "score": 301
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
         "total_configs": 300,
         "score": 300
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 287,
-        "total_configs": 0,
-        "score": 287
     },
     {
         "channel": "@v2nodes",
