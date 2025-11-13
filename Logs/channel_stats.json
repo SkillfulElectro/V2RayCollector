@@ -2,32 +2,32 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 10,
-        "total_configs": 715,
-        "score": 725
+        "total_configs": 600,
+        "score": 610
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 288,
-        "score": 288
+        "total_configs": 297,
+        "score": 297
+    },
+    {
+        "channel": "@iMTProto",
+        "proxy_count": 273,
+        "total_configs": 0,
+        "score": 273
     },
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 264,
-        "score": 264
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 259,
-        "total_configs": 0,
-        "score": 259
+        "total_configs": 272,
+        "score": 272
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
-        "total_configs": 186,
-        "score": 186
+        "total_configs": 181,
+        "score": 181
     },
     {
         "channel": "@v2ray_alpha",
@@ -38,8 +38,8 @@
     {
         "channel": "@v_ng_gap",
         "proxy_count": 0,
-        "total_configs": 64,
-        "score": 64
+        "total_configs": 74,
+        "score": 74
     },
     {
         "channel": "@marambashi",
@@ -56,26 +56,26 @@
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 38,
-        "score": 38
+        "total_configs": 40,
+        "score": 40
     },
     {
         "channel": "@v2rayng_cafe",
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
-    },
-    {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 28,
-        "score": 28
+        "total_configs": 37,
+        "score": 37
     },
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 4,
-        "total_configs": 22,
-        "score": 26
+        "total_configs": 28,
+        "score": 32
+    },
+    {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 30,
+        "score": 30
     },
     {
         "channel": "@HibyeVPnn",
