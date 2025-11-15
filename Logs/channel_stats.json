@@ -8,14 +8,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 313,
-        "score": 313
+        "total_configs": 321,
+        "score": 321
     },
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 0,
-        "total_configs": 211,
-        "score": 211
+        "total_configs": 228,
+        "score": 228
     },
     {
         "channel": "@iMTProto",
@@ -72,6 +72,12 @@
         "score": 22
     },
     {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
         "channel": "@lightning6",
         "proxy_count": 0,
         "total_configs": 6,
@@ -88,54 +94,5 @@
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@V2Gatee",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@v_ng_gap",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@v2nodes",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
-    },
-    {
-        "channel": "@vpn_ioss",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0,
-        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
     }
 ]
