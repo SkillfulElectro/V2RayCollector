@@ -2,44 +2,32 @@
     {
         "channel": "@meli_proxyy",
         "proxy_count": 0,
-        "total_configs": 321,
-        "score": 321
+        "total_configs": 356,
+        "score": 356
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 308,
-        "score": 308
-    },
-    {
-        "channel": "@v2nodes",
-        "proxy_count": 0,
-        "total_configs": 283,
-        "score": 283
+        "total_configs": 313,
+        "score": 313
     },
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 0,
-        "total_configs": 256,
-        "score": 256
+        "total_configs": 211,
+        "score": 211
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 186,
+        "proxy_count": 195,
         "total_configs": 0,
-        "score": 186
+        "score": 195
     },
     {
         "channel": "@v2ray_alpha",
         "proxy_count": 11,
         "total_configs": 67,
         "score": 78
-    },
-    {
-        "channel": "@v_ng_gap",
-        "proxy_count": 0,
-        "total_configs": 52,
-        "score": 52
     },
     {
         "channel": "@marambashi",
@@ -60,12 +48,6 @@
         "score": 44
     },
     {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 43,
-        "score": 43
-    },
-    {
         "channel": "@VlessConfig",
         "proxy_count": 0,
         "total_configs": 32,
@@ -78,39 +60,21 @@
         "score": 22
     },
     {
+        "channel": "@ConfigX2ray",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
+    },
+    {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 22,
         "score": 22
     },
     {
-        "channel": "@V2Gatee",
-        "proxy_count": 0,
-        "total_configs": 20,
-        "score": 20
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
-    },
-    {
-        "channel": "@ConfigX2ray",
-        "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
-    },
-    {
         "channel": "@lightning6",
         "proxy_count": 0,
         "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
-        "proxy_count": 3,
-        "total_configs": 3,
         "score": 6
     },
     {
@@ -126,9 +90,52 @@
         "score": 0
     },
     {
+        "channel": "@zedmodeonVPN",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@V2Gatee",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@v_ng_gap",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@Eternal_Connect_Group",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@v2nodes",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
         "channel": "@vpn_ioss",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 146 seconds is required (caused by ResolveUsernameRequest)"
     }
 ]
