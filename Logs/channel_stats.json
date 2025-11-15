@@ -2,26 +2,26 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 11,
-        "total_configs": 476,
-        "score": 487
+        "total_configs": 478,
+        "score": 489
+    },
+    {
+        "channel": "@meli_proxyy",
+        "proxy_count": 0,
+        "total_configs": 306,
+        "score": 306
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 281,
-        "score": 281
+        "total_configs": 288,
+        "score": 288
     },
     {
         "channel": "@v2nodes",
         "proxy_count": 0,
         "total_configs": 277,
         "score": 277
-    },
-    {
-        "channel": "@meli_proxyy",
-        "proxy_count": 0,
-        "total_configs": 241,
-        "score": 241
     },
     {
         "channel": "@iMTProto",
@@ -42,16 +42,16 @@
         "score": 46
     },
     {
-        "channel": "@NetifyVPN",
-        "proxy_count": 0,
-        "total_configs": 39,
-        "score": 39
-    },
-    {
         "channel": "@v2rayng_cafe",
         "proxy_count": 0,
-        "total_configs": 37,
-        "score": 37
+        "total_configs": 41,
+        "score": 41
+    },
+    {
+        "channel": "@NetifyVPN",
+        "proxy_count": 0,
+        "total_configs": 41,
+        "score": 41
     },
     {
         "channel": "@v_ng_gap",
@@ -68,8 +68,8 @@
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 26,
-        "score": 26
+        "total_configs": 28,
+        "score": 28
     },
     {
         "channel": "@HibyeVPnn",
@@ -78,16 +78,16 @@
         "score": 22
     },
     {
+        "channel": "@TEHRANARGO",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
+    },
+    {
         "channel": "@V2Gatee",
         "proxy_count": 0,
         "total_configs": 20,
         "score": 20
-    },
-    {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 16,
-        "score": 16
     },
     {
         "channel": "@zedmodeonVPN",
@@ -108,6 +108,12 @@
         "score": 6
     },
     {
+        "channel": "@Eternal_Connect_Group",
+        "proxy_count": 3,
+        "total_configs": 0,
+        "score": 3
+    },
+    {
         "channel": "@nufilter",
         "proxy_count": 0,
         "total_configs": 2,
@@ -115,12 +121,6 @@
     },
     {
         "channel": "@ArV2ray",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@Eternal_Connect_Group",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
