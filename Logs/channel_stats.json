@@ -1,99 +1,93 @@
 [
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 10,
-        "total_configs": 485,
-        "score": 495
+        "proxy_count": 21,
+        "total_configs": 409,
+        "score": 430
     },
     {
-        "channel": "@Farah_VPN",
-        "proxy_count": 0,
-        "total_configs": 333,
-        "score": 333
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 277,
-        "total_configs": 0,
-        "score": 277
-    },
-    {
-        "channel": "@meli_proxyy",
+        "channel": "@v2nodes",
         "proxy_count": 0,
         "total_configs": 268,
         "score": 268
     },
     {
-        "channel": "@v2nodes",
+        "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 221,
-        "score": 221
+        "total_configs": 254,
+        "score": 254
     },
     {
-        "channel": "@v_ng_gap",
-        "proxy_count": 10,
-        "total_configs": 74,
-        "score": 84
+        "channel": "@meli_proxyy",
+        "proxy_count": 0,
+        "total_configs": 190,
+        "score": 190
     },
     {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 65,
-        "score": 65
+        "channel": "@iMTProto",
+        "proxy_count": 149,
+        "total_configs": 0,
+        "score": 149
+    },
+    {
+        "channel": "@networld_vpn",
+        "proxy_count": 8,
+        "total_configs": 38,
+        "score": 46
     },
     {
         "channel": "@v2rayng_cafe",
         "proxy_count": 0,
-        "total_configs": 47,
-        "score": 47
-    },
-    {
-        "channel": "@networld_vpn",
-        "proxy_count": 7,
-        "total_configs": 38,
-        "score": 45
+        "total_configs": 37,
+        "score": 37
     },
     {
         "channel": "@NetifyVPN",
         "proxy_count": 0,
-        "total_configs": 43,
-        "score": 43
+        "total_configs": 37,
+        "score": 37
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 35,
+        "score": 35
+    },
+    {
+        "channel": "@v_ng_gap",
+        "proxy_count": 0,
+        "total_configs": 34,
+        "score": 34
     },
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 32,
-        "score": 32
+        "total_configs": 24,
+        "score": 24
     },
     {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 0,
-        "total_configs": 22,
-        "score": 22
-    },
-    {
-        "channel": "@ConfigX2ray",
-        "proxy_count": 0,
-        "total_configs": 12,
-        "score": 12
-    },
-    {
-        "channel": "@v2ray_alpha",
-        "proxy_count": 10,
+        "channel": "@HibyeVPnn",
+        "proxy_count": 22,
         "total_configs": 0,
-        "score": 10
+        "score": 22
     },
     {
         "channel": "@V2Gatee",
         "proxy_count": 0,
-        "total_configs": 10,
-        "score": 10
+        "total_configs": 20,
+        "score": 20
     },
     {
-        "channel": "@lightning6",
+        "channel": "@TEHRANARGO",
         "proxy_count": 0,
-        "total_configs": 8,
-        "score": 8
+        "total_configs": 16,
+        "score": 16
+    },
+    {
+        "channel": "@v2ray_alpha",
+        "proxy_count": 11,
+        "total_configs": 0,
+        "score": 11
     },
     {
         "channel": "@zedmodeonVPN",
@@ -102,19 +96,25 @@
         "score": 6
     },
     {
-        "channel": "@nufilter",
+        "channel": "@lightning6",
         "proxy_count": 0,
         "total_configs": 6,
         "score": 6
     },
     {
-        "channel": "@ArV2ray",
+        "channel": "@ConfigX2ray",
         "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
+        "total_configs": 6,
+        "score": 6
     },
     {
-        "channel": "@HibyeVPnn",
+        "channel": "@nufilter",
+        "proxy_count": 0,
+        "total_configs": 2,
+        "score": 2
+    },
+    {
+        "channel": "@ArV2ray",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
