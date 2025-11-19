@@ -2,20 +2,20 @@
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 47,
-        "total_configs": 294,
-        "score": 341
+        "total_configs": 282,
+        "score": 329
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 227,
-        "score": 227
+        "total_configs": 232,
+        "score": 232
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 193,
+        "proxy_count": 208,
         "total_configs": 0,
-        "score": 193
+        "score": 208
     },
     {
         "channel": "@meli_proxyy",
