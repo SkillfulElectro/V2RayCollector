@@ -648,6 +648,7 @@ ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encrypti
 ss://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇫🇷[Telegram:NetifyVPN]
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%40meli_proxyy
+ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 ss://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=api-alba.usealva.com&type=ws#@meli_proxyy
 ss://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=api-england.usealva.com&type=ws#@meli_proxyy
@@ -843,6 +844,7 @@ ss://russia@russia.whitenet.online:443/?type=tcp&channel@.networld_vpn-channel@.
 ss://vpn@109.205.56.37:5000/?type=ws&encryption=none&host=ozon.ru&path=%2F#%D8%AA%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D9%86%D8%A8%D8%A7%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%D8%B9%20%D9%85%DB%8C%D8%B4%D9%86%0A%40networld_vpn
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20NormanV2raY%40%F0%9F%86%94%EF%B8%8F%F0%9F%94%94
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://2cf6d686799e6fa95316394064f26c0a@153.121.44.99:3093?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443/?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F37.252.5.75%3D443&security=tls&sni=joss.gpj1.web.id&allowInsecure=1#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 trojan://5fbEkKmVOdAY+8_-@217.69.10.156:16288/?type=tcp&security=tls&sni=sweetdream.sweetthunder.click#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
@@ -1340,6 +1342,7 @@ vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070/?type=tcp&encry
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=src.smnsoft.com#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@137.74.53.176:35789?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=none&encryption=none&headerType=none&type=tcp#🇫🇷[Telegram:NetifyVPN]
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%40meli_proxyy
+vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=api-alba.usealva.com&type=ws#@meli_proxyy
 vless://bee8a299-becf-4c85-a9b9-e0380aee63a2@104.16.1.106:2052?path=%2F%3Fed%3D2052&security=&encryption=none&host=api-england.usealva.com&type=ws#@meli_proxyy
