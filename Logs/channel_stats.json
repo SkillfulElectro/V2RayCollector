@@ -8,14 +8,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 304,
-        "score": 304
+        "total_configs": 311,
+        "score": 311
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 0,
-        "total_configs": 230,
-        "score": 230
+        "proxy_count": 14,
+        "total_configs": 255,
+        "score": 269
     },
     {
         "channel": "@marambashi",
