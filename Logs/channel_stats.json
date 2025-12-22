@@ -6,16 +6,16 @@
         "score": 371
     },
     {
+        "channel": "@Farah_VPN",
+        "proxy_count": 0,
+        "total_configs": 326,
+        "score": 326
+    },
+    {
         "channel": "@iMTProto",
         "proxy_count": 323,
         "total_configs": 0,
         "score": 323
-    },
-    {
-        "channel": "@Farah_VPN",
-        "proxy_count": 0,
-        "total_configs": 320,
-        "score": 320
     },
     {
         "channel": "@networld_vpn",
