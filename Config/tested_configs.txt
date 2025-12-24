@@ -1134,6 +1134,7 @@ ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?path=tg%40zdyz2&sec
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.243:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.6:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@223.122.234.249:30466?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2FTG%40ZDYZ2%3Fed#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
@@ -6913,6 +6914,7 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@147.78.140.242:443?path=tg%40zdyz2&
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@155.46.213.9:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.243:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.139:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.42.88.6:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@223.122.234.249:30466?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2FTG%40ZDYZ2%3Fed#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2fp=chrome&security=tls#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
