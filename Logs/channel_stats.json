@@ -1,27 +1,27 @@
 [
     {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 0,
-        "total_configs": 305,
-        "score": 305
+        "channel": "@iMTProto",
+        "proxy_count": 315,
+        "total_configs": 0,
+        "score": 315
     },
     {
-        "channel": "@iMTProto",
-        "proxy_count": 294,
-        "total_configs": 0,
-        "score": 294
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 0,
+        "total_configs": 303,
+        "score": 303
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 283,
-        "score": 283
+        "total_configs": 288,
+        "score": 288
     },
     {
         "channel": "@networld_vpn",
         "proxy_count": 19,
-        "total_configs": 118,
-        "score": 137
+        "total_configs": 138,
+        "score": 157
     },
     {
         "channel": "@v2ray_alpha",
@@ -48,7 +48,19 @@
         "score": 24
     },
     {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 0,
+        "total_configs": 17,
+        "score": 17
+    },
+    {
         "channel": "@lightning6",
+        "proxy_count": 0,
+        "total_configs": 14,
+        "score": 14
+    },
+    {
+        "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
@@ -60,28 +72,16 @@
         "score": 12
     },
     {
+        "channel": "@ZibaNabz",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
         "channel": "@TEHRANARGO",
         "proxy_count": 2,
         "total_configs": 8,
         "score": 10
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@ZibaNabz",
-        "proxy_count": 0,
-        "total_configs": 6,
-        "score": 6
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 5,
-        "score": 5
     },
     {
         "channel": "@nufilter",
