@@ -43,7 +43,7 @@ jobs:
           chmod +x test_configs.sh
           ./test_configs.sh
           chmod +x size_limiter.sh
-          ./size_limiter.sh "Config/tested_configs" 3 top
+          ./size_limiter.sh
 
       - name: Commit and push changes
         run: |
