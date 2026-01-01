@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./reduce_file_size.sh <filename> [target_size_in_MB] [direction]
+# Usage: ./size_limiter.sh <filename> [target_size_in_MB] [direction]
 # Default target size: 3 MB
 # Default direction: bottom (keep newest lines, remove oldest from top)
 # direction: "bottom" = remove from top (oldest lines)
