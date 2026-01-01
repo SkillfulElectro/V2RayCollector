@@ -6,9 +6,9 @@
 # direction: "bottom" = remove from top (oldest lines)
 #            "top"    = remove from bottom (newest lines)
 
-filename="${1}"
-target_mb="${2:-3}"
-direction="${3:-bottom}"  # bottom or top
+filename="Config/tested_configs.txt"
+target_mb="3"
+direction="top"  # bottom or top
 
 if [[ -z "$filename" || ! -f "$filename" ]]; then
     echo "Usage: $0 <filename> [target_size_in_MB] [direction: bottom|top]"
