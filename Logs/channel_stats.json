@@ -1,15 +1,15 @@
 [
     {
-        "channel": "@Farah_VPN",
-        "proxy_count": 0,
-        "total_configs": 330,
-        "score": 330
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 134,
+        "total_configs": 394,
+        "score": 528
     },
     {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 52,
-        "total_configs": 239,
-        "score": 291
+        "channel": "@Farah_VPN",
+        "proxy_count": 0,
+        "total_configs": 335,
+        "score": 335
     },
     {
         "channel": "@HibyeVPnn",
@@ -19,9 +19,9 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 163,
+        "proxy_count": 157,
         "total_configs": 0,
-        "score": 163
+        "score": 157
     },
     {
         "channel": "@v2ray_alpha",
@@ -30,22 +30,22 @@
         "score": 91
     },
     {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 86,
+        "score": 86
+    },
+    {
         "channel": "@networld_vpn",
         "proxy_count": 21,
         "total_configs": 62,
         "score": 83
     },
     {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 75,
-        "score": 75
-    },
-    {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 30,
-        "score": 30
+        "total_configs": 32,
+        "score": 32
     },
     {
         "channel": "@ZibaNabz",
@@ -56,14 +56,8 @@
     {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
-        "total_configs": 22,
-        "score": 22
-    },
-    {
-        "channel": "@zedmodeonVPN",
-        "proxy_count": 0,
-        "total_configs": 18,
-        "score": 18
+        "total_configs": 24,
+        "score": 24
     },
     {
         "channel": "@nufilter",
@@ -85,6 +79,12 @@
     },
     {
         "channel": "@ArV2ray",
+        "proxy_count": 0,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
+        "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 12,
         "score": 12
