@@ -8,8 +8,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 281,
-        "score": 281
+        "total_configs": 285,
+        "score": 285
     },
     {
         "channel": "@HibyeVPnn",
@@ -25,21 +25,21 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 85,
+        "proxy_count": 87,
         "total_configs": 0,
-        "score": 85
+        "score": 87
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 75,
+        "score": 75
     },
     {
         "channel": "@networld_vpn",
         "proxy_count": 21,
         "total_configs": 48,
         "score": 69
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 64,
-        "score": 64
     },
     {
         "channel": "@VlessConfig",
