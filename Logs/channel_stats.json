@@ -8,8 +8,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 305,
-        "score": 305
+        "total_configs": 313,
+        "score": 313
     },
     {
         "channel": "@v2ray_alpha",
@@ -30,16 +30,16 @@
         "score": 52
     },
     {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
+    },
+    {
         "channel": "@iMTProto",
         "proxy_count": 21,
         "total_configs": 0,
         "score": 21
-    },
-    {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 20,
-        "score": 20
     },
     {
         "channel": "@networld_vpn",
