@@ -2,14 +2,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 302,
-        "score": 302
+        "total_configs": 308,
+        "score": 308
     },
     {
         "channel": "@Alpha_V2ray_Iran",
         "proxy_count": 0,
-        "total_configs": 16,
-        "score": 16
+        "total_configs": 70,
+        "score": 70
+    },
+    {
+        "channel": "@v2ray_alpha",
+        "proxy_count": 0,
+        "total_configs": 62,
+        "score": 62
     },
     {
         "channel": "@VlessConfig",
@@ -73,12 +79,6 @@
     },
     {
         "channel": "@v2rayng_cafe",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@v2ray_alpha",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
