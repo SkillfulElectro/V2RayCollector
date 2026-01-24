@@ -8,8 +8,8 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 286,
-        "score": 286
+        "total_configs": 292,
+        "score": 292
     },
     {
         "channel": "@v2ray_alpha",
@@ -49,9 +49,9 @@
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 0,
-        "total_configs": 23,
-        "score": 23
+        "proxy_count": 12,
+        "total_configs": 33,
+        "score": 45
     },
     {
         "channel": "@VlessConfig",
