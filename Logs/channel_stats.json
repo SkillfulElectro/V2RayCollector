@@ -2,38 +2,20 @@
     {
         "channel": "@ConfigX2ray",
         "proxy_count": 0,
-        "total_configs": 381,
-        "score": 381
+        "total_configs": 333,
+        "score": 333
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 311,
-        "score": 311
+        "total_configs": 242,
+        "score": 242
     },
     {
-        "channel": "@TEHRANARGO",
-        "proxy_count": 51,
-        "total_configs": 89,
-        "score": 140
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 137,
-        "total_configs": 0,
-        "score": 137
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 58,
-        "total_configs": 50,
-        "score": 108
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 89,
-        "score": 89
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 12,
+        "total_configs": 142,
+        "score": 154
     },
     {
         "channel": "@ZibaNabz",
@@ -42,22 +24,40 @@
         "score": 73
     },
     {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 12,
-        "total_configs": 58,
-        "score": 70
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 64,
+        "score": 64
+    },
+    {
+        "channel": "@iMTProto",
+        "proxy_count": 59,
+        "total_configs": 0,
+        "score": 59
     },
     {
         "channel": "@v2ray_alpha",
         "proxy_count": 0,
-        "total_configs": 65,
-        "score": 65
+        "total_configs": 51,
+        "score": 51
+    },
+    {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 24,
+        "total_configs": 25,
+        "score": 49
+    },
+    {
+        "channel": "@TEHRANARGO",
+        "proxy_count": 0,
+        "total_configs": 46,
+        "score": 46
     },
     {
         "channel": "@VlessConfig",
         "proxy_count": 0,
-        "total_configs": 20,
-        "score": 20
+        "total_configs": 16,
+        "score": 16
     },
     {
         "channel": "@ArV2ray",
