@@ -1,81 +1,21 @@
 [
     {
-        "channel": "@shahinnproxy",
-        "proxy_count": 211,
-        "total_configs": 398,
-        "score": 609
-    },
-    {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 326,
-        "score": 326
+        "total_configs": 332,
+        "score": 332
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 10,
-        "total_configs": 167,
-        "score": 177
-    },
-    {
-        "channel": "@falcunargo",
-        "proxy_count": 51,
-        "total_configs": 90,
-        "score": 141
-    },
-    {
-        "channel": "@ConfigX2ray",
-        "proxy_count": 0,
-        "total_configs": 100,
-        "score": 100
-    },
-    {
-        "channel": "@HibyeVPnn",
-        "proxy_count": 0,
-        "total_configs": 86,
-        "score": 86
-    },
-    {
-        "channel": "@v2ray_alpha",
-        "proxy_count": 0,
-        "total_configs": 82,
-        "score": 82
-    },
-    {
-        "channel": "@v2rayng_cafe",
-        "proxy_count": 30,
-        "total_configs": 31,
-        "score": 61
-    },
-    {
-        "channel": "@marambashi",
-        "proxy_count": 0,
-        "total_configs": 49,
-        "score": 49
+        "proxy_count": 37,
+        "total_configs": 162,
+        "score": 199
     },
     {
         "channel": "@iMTProto",
         "proxy_count": 44,
         "total_configs": 0,
         "score": 44
-    },
-    {
-        "channel": "@vless_config",
-        "proxy_count": 0,
-        "total_configs": 33,
-        "score": 33
-    },
-    {
-        "channel": "@VlessConfig",
-        "proxy_count": 0,
-        "total_configs": 18,
-        "score": 18
-    },
-    {
-        "channel": "@networld_vpn",
-        "proxy_count": 0,
-        "total_configs": 9,
-        "score": 9
     },
     {
         "channel": "@ArV2ray",
@@ -87,42 +27,119 @@
         "channel": "@meli_proxyy",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@zedmodeonVPN",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@lightning6",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@nufilter",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@networld_vpn",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@HibyeVPnn",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@v2rayng_cafe",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@v2ray_alpha",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@marambashi",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@ConfigX2ray",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@VlessConfig",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@TEHRANARGO",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@ZibaNabz",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@vless_config",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     },
     {
         "channel": "@argo_vpnn",
         "proxy_count": 0,
         "total_configs": 0,
-        "score": 0
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@falcunargo",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
+    },
+    {
+        "channel": "@shahinnproxy",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0,
+        "error": "A wait of 100 seconds is required (caused by ResolveUsernameRequest)"
     }
 ]
