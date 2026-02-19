@@ -1,21 +1,21 @@
 [
     {
-        "channel": "@Farah_VPN",
-        "proxy_count": 0,
-        "total_configs": 334,
-        "score": 334
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 80,
+        "total_configs": 244,
+        "score": 324
     },
     {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 81,
-        "total_configs": 165,
-        "score": 246
+        "channel": "@Farah_VPN",
+        "proxy_count": 0,
+        "total_configs": 256,
+        "score": 256
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 213,
+        "proxy_count": 121,
         "total_configs": 0,
-        "score": 213
+        "score": 121
     },
     {
         "channel": "@ArV2ray",
