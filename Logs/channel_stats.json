@@ -2,55 +2,61 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 326,
-        "score": 326
+        "total_configs": 369,
+        "score": 369
     },
     {
         "channel": "@AmyraxVPNGap",
-        "proxy_count": 24,
-        "total_configs": 132,
-        "score": 156
+        "proxy_count": 60,
+        "total_configs": 220,
+        "score": 280
     },
     {
         "channel": "@Gp_config",
         "proxy_count": 4,
-        "total_configs": 119,
-        "score": 123
+        "total_configs": 113,
+        "score": 117
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 0,
-        "total_configs": 115,
+        "proxy_count": 2,
+        "total_configs": 113,
         "score": 115
+    },
+    {
+        "channel": "@chat_nakone",
+        "proxy_count": 46,
+        "total_configs": 4,
+        "score": 50
     },
     {
         "channel": "@Configir98",
         "proxy_count": 0,
-        "total_configs": 43,
-        "score": 43
-    },
-    {
-        "channel": "@chat_nakone",
-        "proxy_count": 14,
-        "total_configs": 14,
-        "score": 28
-    },
-    {
-        "channel": "@v2ryng_proxy",
-        "proxy_count": 4,
-        "total_configs": 21,
-        "score": 25
+        "total_configs": 27,
+        "score": 27
     },
     {
         "channel": "@DrovOne",
         "proxy_count": 4,
-        "total_configs": 18,
-        "score": 22
+        "total_configs": 22,
+        "score": 26
     },
     {
         "channel": "@crgaming7",
         "proxy_count": 0,
-        "total_configs": 8,
+        "total_configs": 12,
+        "score": 12
+    },
+    {
+        "channel": "@v2ryng_proxy",
+        "proxy_count": 2,
+        "total_configs": 9,
+        "score": 11
+    },
+    {
+        "channel": "@ZibaNabz",
+        "proxy_count": 8,
+        "total_configs": 0,
         "score": 8
     },
     {
@@ -61,12 +67,6 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@ZibaNabz",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
