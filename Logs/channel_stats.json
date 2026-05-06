@@ -7,21 +7,21 @@
     },
     {
         "channel": "@AmyraxVPNGap",
-        "proxy_count": 10,
-        "total_configs": 133,
+        "proxy_count": 12,
+        "total_configs": 131,
         "score": 143
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 101,
+        "proxy_count": 103,
         "total_configs": 6,
-        "score": 107
+        "score": 109
     },
     {
         "channel": "@Gp_config",
         "proxy_count": 14,
-        "total_configs": 62,
-        "score": 76
+        "total_configs": 64,
+        "score": 78
     },
     {
         "channel": "@Alpha_V2ray_Iran",
@@ -49,9 +49,9 @@
     },
     {
         "channel": "@v2ryng_proxy",
-        "proxy_count": 2,
+        "proxy_count": 4,
         "total_configs": 0,
-        "score": 2
+        "score": 4
     },
     {
         "channel": "@iMTProto",
