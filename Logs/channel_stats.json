@@ -8,8 +8,8 @@
     {
         "channel": "@AmyraxVPNGap",
         "proxy_count": 5,
-        "total_configs": 98,
-        "score": 103
+        "total_configs": 110,
+        "score": 115
     },
     {
         "channel": "@Configir98",
@@ -20,8 +20,8 @@
     {
         "channel": "@Gp_config",
         "proxy_count": 0,
-        "total_configs": 29,
-        "score": 29
+        "total_configs": 33,
+        "score": 33
     },
     {
         "channel": "@DrovOne",
@@ -43,9 +43,9 @@
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 0,
+        "proxy_count": 2,
         "total_configs": 2,
-        "score": 2
+        "score": 4
     },
     {
         "channel": "@iMTProto",
