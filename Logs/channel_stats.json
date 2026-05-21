@@ -2,20 +2,20 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 331,
-        "score": 331
-    },
-    {
-        "channel": "@AmyraxVPNGap",
-        "proxy_count": 7,
-        "total_configs": 216,
-        "score": 223
+        "total_configs": 357,
+        "score": 357
     },
     {
         "channel": "@Gp_config",
-        "proxy_count": 6,
-        "total_configs": 174,
-        "score": 180
+        "proxy_count": 34,
+        "total_configs": 184,
+        "score": 218
+    },
+    {
+        "channel": "@AmyraxVPNGap",
+        "proxy_count": 26,
+        "total_configs": 150,
+        "score": 176
     },
     {
         "channel": "@Configir98",
