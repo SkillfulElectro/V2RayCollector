@@ -2,14 +2,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 370,
-        "score": 370
+        "total_configs": 354,
+        "score": 354
     },
     {
         "channel": "@AmyraxVPNGap",
         "proxy_count": 9,
-        "total_configs": 149,
-        "score": 158
+        "total_configs": 172,
+        "score": 181
     },
     {
         "channel": "@Gp_config",
@@ -31,9 +31,9 @@
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 26,
+        "proxy_count": 18,
         "total_configs": 0,
-        "score": 26
+        "score": 18
     },
     {
         "channel": "@crgaming7",
