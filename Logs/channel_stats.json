@@ -2,14 +2,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 367,
-        "score": 367
+        "total_configs": 327,
+        "score": 327
     },
     {
         "channel": "@AmyraxVPNGap",
-        "proxy_count": 16,
-        "total_configs": 146,
-        "score": 162
+        "proxy_count": 12,
+        "total_configs": 149,
+        "score": 161
     },
     {
         "channel": "@Gp_config",
@@ -50,8 +50,8 @@
     {
         "channel": "@DrovOne",
         "proxy_count": 4,
-        "total_configs": 2,
-        "score": 6
+        "total_configs": 4,
+        "score": 8
     },
     {
         "channel": "@xgvpn",
