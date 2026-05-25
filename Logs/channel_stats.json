@@ -2,14 +2,14 @@
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 329,
-        "score": 329
+        "total_configs": 358,
+        "score": 358
     },
     {
         "channel": "@AmyraxVPNGap",
         "proxy_count": 5,
-        "total_configs": 114,
-        "score": 119
+        "total_configs": 122,
+        "score": 127
     },
     {
         "channel": "@Alpha_V2ray_Iran",
@@ -18,16 +18,16 @@
         "score": 76
     },
     {
-        "channel": "@Configir98",
-        "proxy_count": 0,
-        "total_configs": 36,
-        "score": 36
-    },
-    {
         "channel": "@Gp_config",
         "proxy_count": 0,
-        "total_configs": 32,
-        "score": 32
+        "total_configs": 40,
+        "score": 40
+    },
+    {
+        "channel": "@Configir98",
+        "proxy_count": 0,
+        "total_configs": 40,
+        "score": 40
     },
     {
         "channel": "@crgaming7",
@@ -37,9 +37,9 @@
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 20,
+        "proxy_count": 16,
         "total_configs": 0,
-        "score": 20
+        "score": 16
     },
     {
         "channel": "@DrovOne",
