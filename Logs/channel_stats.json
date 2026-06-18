@@ -1,33 +1,33 @@
 [
     {
         "channel": "@Gp_config",
-        "proxy_count": 137,
-        "total_configs": 764,
-        "score": 901
+        "proxy_count": 219,
+        "total_configs": 768,
+        "score": 987
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 60,
-        "total_configs": 437,
-        "score": 497
+        "proxy_count": 66,
+        "total_configs": 482,
+        "score": 548
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 329,
-        "score": 329
-    },
-    {
-        "channel": "@chat_nakone",
-        "proxy_count": 150,
-        "total_configs": 92,
-        "score": 242
+        "total_configs": 324,
+        "score": 324
     },
     {
         "channel": "@AmyraxVPNGap",
-        "proxy_count": 72,
-        "total_configs": 116,
-        "score": 188
+        "proxy_count": 114,
+        "total_configs": 159,
+        "score": 273
+    },
+    {
+        "channel": "@chat_nakone",
+        "proxy_count": 137,
+        "total_configs": 125,
+        "score": 262
     },
     {
         "channel": "@Letiranbreath",
@@ -36,16 +36,16 @@
         "score": 144
     },
     {
+        "channel": "@iMTProto",
+        "proxy_count": 28,
+        "total_configs": 0,
+        "score": 28
+    },
+    {
         "channel": "@vaddress",
         "proxy_count": 0,
         "total_configs": 23,
         "score": 23
-    },
-    {
-        "channel": "@iMTProto",
-        "proxy_count": 18,
-        "total_configs": 0,
-        "score": 18
     },
     {
         "channel": "@Configir98",
@@ -54,16 +54,16 @@
         "score": 11
     },
     {
+        "channel": "@v2ryng_proxy",
+        "proxy_count": 4,
+        "total_configs": 2,
+        "score": 6
+    },
+    {
         "channel": "@xgvpn",
         "proxy_count": 5,
         "total_configs": 0,
         "score": 5
-    },
-    {
-        "channel": "@v2ryng_proxy",
-        "proxy_count": 0,
-        "total_configs": 2,
-        "score": 2
     },
     {
         "channel": "@ZibaNabz",
