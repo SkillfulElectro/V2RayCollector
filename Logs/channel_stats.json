@@ -1,45 +1,45 @@
 [
     {
         "channel": "@Gp_config",
-        "proxy_count": 330,
-        "total_configs": 565,
-        "score": 895
-    },
-    {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 79,
-        "total_configs": 433,
-        "score": 512
+        "proxy_count": 293,
+        "total_configs": 615,
+        "score": 908
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 255,
-        "total_configs": 167,
-        "score": 422
+        "proxy_count": 296,
+        "total_configs": 185,
+        "score": 481
+    },
+    {
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 81,
+        "total_configs": 313,
+        "score": 394
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 351,
-        "score": 351
+        "total_configs": 354,
+        "score": 354
     },
     {
         "channel": "@AmyraxVPNGap",
         "proxy_count": 97,
-        "total_configs": 124,
-        "score": 221
+        "total_configs": 245,
+        "score": 342
     },
     {
         "channel": "@Letiranbreath",
         "proxy_count": 0,
-        "total_configs": 132,
-        "score": 132
+        "total_configs": 60,
+        "score": 60
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 76,
+        "proxy_count": 56,
         "total_configs": 0,
-        "score": 76
+        "score": 56
     },
     {
         "channel": "@vaddress",
@@ -49,21 +49,21 @@
     },
     {
         "channel": "@v2ryng_proxy",
-        "proxy_count": 17,
-        "total_configs": 0,
-        "score": 17
-    },
-    {
-        "channel": "@xgvpn",
-        "proxy_count": 2,
-        "total_configs": 0,
-        "score": 2
+        "proxy_count": 13,
+        "total_configs": 7,
+        "score": 20
     },
     {
         "channel": "@ZibaNabz",
         "proxy_count": 1,
         "total_configs": 0,
         "score": 1
+    },
+    {
+        "channel": "@xgvpn",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0
     },
     {
         "channel": "@DSR_TM",
