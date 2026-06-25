@@ -1,51 +1,57 @@
 [
     {
         "channel": "@Gp_config",
-        "proxy_count": 248,
-        "total_configs": 759,
-        "score": 1007
+        "proxy_count": 205,
+        "total_configs": 706,
+        "score": 911
     },
     {
-        "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 57,
-        "total_configs": 293,
-        "score": 350
+        "channel": "@AmyraxVPNGap",
+        "proxy_count": 66,
+        "total_configs": 314,
+        "score": 380
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 341,
-        "score": 341
+        "total_configs": 345,
+        "score": 345
+    },
+    {
+        "channel": "@Alpha_V2ray_Iran",
+        "proxy_count": 110,
+        "total_configs": 219,
+        "score": 329
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 138,
-        "total_configs": 95,
-        "score": 233
-    },
-    {
-        "channel": "@AmyraxVPNGap",
-        "proxy_count": 68,
-        "total_configs": 156,
-        "score": 224
+        "proxy_count": 165,
+        "total_configs": 119,
+        "score": 284
     },
     {
         "channel": "@v2ryng_proxy",
-        "proxy_count": 44,
-        "total_configs": 56,
-        "score": 100
+        "proxy_count": 42,
+        "total_configs": 25,
+        "score": 67
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 46,
+        "proxy_count": 31,
         "total_configs": 0,
-        "score": 46
+        "score": 31
     },
     {
         "channel": "@vaddress",
         "proxy_count": 0,
-        "total_configs": 26,
-        "score": 26
+        "total_configs": 29,
+        "score": 29
+    },
+    {
+        "channel": "@Configir98",
+        "proxy_count": 0,
+        "total_configs": 22,
+        "score": 22
     },
     {
         "channel": "@xgvpn",
@@ -91,12 +97,6 @@
     },
     {
         "channel": "@ArV2ray",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@Configir98",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
