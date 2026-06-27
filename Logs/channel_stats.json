@@ -1,39 +1,33 @@
 [
     {
         "channel": "@Gp_config",
-        "proxy_count": 224,
-        "total_configs": 631,
-        "score": 855
+        "proxy_count": 264,
+        "total_configs": 469,
+        "score": 733
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 133,
-        "total_configs": 292,
-        "score": 425
+        "proxy_count": 89,
+        "total_configs": 321,
+        "score": 410
     },
     {
-        "channel": "@AmyraxVPNGap",
-        "proxy_count": 97,
-        "total_configs": 276,
-        "score": 373
+        "channel": "@chat_nakone",
+        "proxy_count": 262,
+        "total_configs": 99,
+        "score": 361
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 331,
-        "score": 331
+        "total_configs": 329,
+        "score": 329
     },
     {
-        "channel": "@chat_nakone",
-        "proxy_count": 158,
-        "total_configs": 60,
-        "score": 218
-    },
-    {
-        "channel": "@v2ryng_proxy",
-        "proxy_count": 22,
-        "total_configs": 10,
-        "score": 32
+        "channel": "@AmyraxVPNGap",
+        "proxy_count": 66,
+        "total_configs": 135,
+        "score": 201
     },
     {
         "channel": "@vaddress",
@@ -43,21 +37,15 @@
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 25,
+        "proxy_count": 28,
         "total_configs": 0,
-        "score": 25
+        "score": 28
     },
     {
         "channel": "@Configir98",
         "proxy_count": 0,
-        "total_configs": 24,
-        "score": 24
-    },
-    {
-        "channel": "@xgvpn",
-        "proxy_count": 3,
-        "total_configs": 0,
-        "score": 3
+        "total_configs": 2,
+        "score": 2
     },
     {
         "channel": "@ZibaNabz",
@@ -67,6 +55,18 @@
     },
     {
         "channel": "@Letiranbreath",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0
+    },
+    {
+        "channel": "@xgvpn",
+        "proxy_count": 0,
+        "total_configs": 0,
+        "score": 0
+    },
+    {
+        "channel": "@v2ryng_proxy",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
