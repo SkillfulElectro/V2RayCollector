@@ -1,51 +1,57 @@
 [
     {
         "channel": "@Gp_config",
-        "proxy_count": 151,
-        "total_configs": 598,
-        "score": 749
+        "proxy_count": 125,
+        "total_configs": 559,
+        "score": 684
     },
     {
         "channel": "@Alpha_V2ray_Iran",
-        "proxy_count": 159,
-        "total_configs": 405,
-        "score": 564
+        "proxy_count": 116,
+        "total_configs": 482,
+        "score": 598
+    },
+    {
+        "channel": "@AmyraxVPNGap",
+        "proxy_count": 47,
+        "total_configs": 463,
+        "score": 510
     },
     {
         "channel": "@Farah_VPN",
         "proxy_count": 0,
-        "total_configs": 337,
-        "score": 337
-    },
-    {
-        "channel": "@AmyraxVPNGap",
-        "proxy_count": 73,
-        "total_configs": 220,
-        "score": 293
+        "total_configs": 345,
+        "score": 345
     },
     {
         "channel": "@chat_nakone",
-        "proxy_count": 106,
-        "total_configs": 62,
-        "score": 168
+        "proxy_count": 176,
+        "total_configs": 123,
+        "score": 299
     },
     {
         "channel": "@iMTProto",
-        "proxy_count": 83,
+        "proxy_count": 96,
         "total_configs": 0,
-        "score": 83
+        "score": 96
     },
     {
         "channel": "@vaddress",
         "proxy_count": 0,
-        "total_configs": 25,
-        "score": 25
+        "total_configs": 26,
+        "score": 26
     },
     {
         "channel": "@v2ryng_proxy",
-        "proxy_count": 16,
+        "proxy_count": 4,
         "total_configs": 0,
-        "score": 16
+        "score": 4
+    },
+    {
+        "channel": "@crgaming7",
+        "proxy_count": 0,
+        "total_configs": 2,
+        "score": 2
     },
     {
         "channel": "@xgvpn",
@@ -85,12 +91,6 @@
     },
     {
         "channel": "@ArV2ray",
-        "proxy_count": 0,
-        "total_configs": 0,
-        "score": 0
-    },
-    {
-        "channel": "@crgaming7",
         "proxy_count": 0,
         "total_configs": 0,
         "score": 0
