@@ -1,5 +1,5 @@
-2026-11-26 22:00:42,561 - INFO - Starting config+proxy collection process
-2026-11-26 22:00:42,561 - INFO - Loaded 18 channels from telegram_channels.json
-2026-11-26 22:00:42,561 - INFO - Connecting to 149.154.167.91:443/TcpFull...
-2026-11-26 22:00:42,721 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
-2026-11-26 22:00:43,433 - ERROR - Error in main loop: EOF when reading a line
+2026-11-27 00:00:41,042 - INFO - Starting config+proxy collection process
+2026-11-27 00:00:41,042 - INFO - Loaded 18 channels from telegram_channels.json
+2026-11-27 00:00:41,042 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2026-11-27 00:00:41,152 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2026-11-27 00:00:41,779 - ERROR - Error in main loop: EOF when reading a line
